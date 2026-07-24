@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2890131",
+      "title": "WikiData Q-item: Q2890131",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2890131"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "bataille navale"
+    },
+    "descriptions": {
+      "en": "bataille navale"
+    },
+    "domain": "general",
+    "id": "Q2890131",
+    "labels": {
+      "en": "bataille de Tauroentum"
+    },
+    "properties": {
+      "point_in_time": "-0048-07-29T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q11142790",
+      "title": "WikiData Q-item: Q11142790",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q11142790"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "niên hiệu nhà Lý"
+    },
+    "descriptions": {
+      "en": "niên hiệu nhà Lý"
+    },
+    "domain": "general",
+    "id": "Q11142790",
+    "labels": {
+      "en": "Trị Bình Long Ứng",
+      "fr": "Trị Bình Long Ứng"
+    },
+    "properties": {
+      "end_time": "1211-01-01T00:00:00Z",
+      "start_time": "1205-03-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

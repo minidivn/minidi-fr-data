@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q19316",
+      "title": "WikiData Q-item: Q19316",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19316"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Biên Hòa trước đây là thành phố tỉnh lỵ thuộc tỉnh Đồng Nai cũ, vùng Đông Nam Bộ, Việt Nam."
+    },
+    "descriptions": {
+      "en": "Thành phố tỉnh lỵ thuộc tỉnh Đồng Nai cũ"
+    },
+    "domain": "general",
+    "id": "Q19316",
+    "labels": {
+      "en": "Biên Hòa",
+      "fr": "Biên Hòa"
+    },
+    "properties": {
+      "coordinates": "Point(106.822136 10.950764)",
+      "summary": "Biên Hòa trước đây là thành phố tỉnh lỵ thuộc tỉnh Đồng Nai cũ, vùng Đông Nam Bộ, Việt Nam."
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3041786",
+      "title": "WikiData Q-item: Q3041786",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3041786"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Khởi nghĩa vũ trang chống Pháp, dành kiểm soát các tỉnh miền Bắc Việt Nam do Nguyễn Thái Học chỉ huy"
+    },
+    "descriptions": {
+      "en": "Khởi nghĩa vũ trang chống Pháp, dành kiểm soát các tỉnh miền Bắc Việt Nam do Nguyễn Thái Học chỉ huy"
+    },
+    "domain": "general",
+    "id": "Q3041786",
+    "labels": {
+      "en": "Khởi nghĩa Yên Bái"
+    },
+    "properties": {
+      "point_in_time": "1930-02-10T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

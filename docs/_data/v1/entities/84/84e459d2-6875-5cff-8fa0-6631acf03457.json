@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q19491",
+      "title": "WikiData Q-item: Q19491",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q19491"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Nha Trang là thành phố tỉnh lỵ cũ của tỉnh Khánh Hòa, Việt Nam.\nTrước đây, vùng đất Nha Trang vốn thuộc về Chiêm Thành, do đó các di tích của người Chăm vẫn còn tồn tại nhiều nơi ở Nha Trang. Nha Trang được Thủ tướng chính phủ Việt Nam công nhận là đô thị loại I vào ngày 22 tháng 4 năm 2009. Nha Trang được mệnh danh là hòn ngọc của biển Đông, Viên ngọc xanh  vì giá trị thiên nhiên, vẻ đẹp cũng như khí hậu của nó."
+    },
+    "descriptions": {
+      "en": "thành phố tỉnh lỵ cũ thuộc tỉnh Khánh Hòa"
+    },
+    "domain": "general",
+    "id": "Q19491",
+    "labels": {
+      "en": "Nha Trang",
+      "fr": "Nha Trang"
+    },
+    "properties": {
+      "coordinates": "Point(109.191666666 12.245)",
+      "summary": "Nha Trang là thành phố tỉnh lỵ cũ của tỉnh Khánh Hòa, Việt Nam.\nTrước đây, vùng đất Nha Trang vốn thuộc về Chiêm Thành, do đó các di tích của người Chăm vẫn còn tồn tại nhiều nơi ở Nha Trang. Nha Trang được Thủ tướng chính phủ Việt Nam công nhận là đô thị loại I vào ngày 22 tháng 4 năm 2009. Nha Trang được mệnh danh là hòn ngọc của biển Đông, Viên ngọc xanh  vì giá trị thiên nhiên, vẻ đẹp cũng như khí hậu của nó."
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16480259",
+      "title": "WikiData Q-item: Q16480259",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16480259"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q16480259",
+    "labels": {
+      "en": "Rừng tràm Trà Sư"
+    },
+    "properties": {
+      "coordinates": "Point(105.058611 10.585556)"
+    },
+    "type": "place"
+  }
+}

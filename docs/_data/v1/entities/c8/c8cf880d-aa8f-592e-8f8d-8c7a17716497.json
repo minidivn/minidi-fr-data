@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q239964",
+      "title": "WikiData Q-item: Q239964",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q239964"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "île de Polynésie française (Marquises)"
+    },
+    "descriptions": {
+      "en": "île de Polynésie française (Marquises)"
+    },
+    "domain": "general",
+    "id": "Q239964",
+    "labels": {
+      "en": "Fatu Huku"
+    },
+    "properties": {
+      "coordinates": "Point(-138.927777777 -9.436111111)"
+    },
+    "type": "place"
+  }
+}

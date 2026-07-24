@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q36587",
+      "title": "WikiData Q-item: Q36587",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q36587"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "tỉnh thuộc vùng Bắc Trung Bộ của Việt Nam"
+    },
+    "descriptions": {
+      "en": "tỉnh thuộc vùng Bắc Trung Bộ của Việt Nam"
+    },
+    "domain": "general",
+    "id": "Q36587",
+    "labels": {
+      "en": "Nghệ An"
+    },
+    "properties": {
+      "coordinates": "Point(104.833333333 19.333333333)"
+    },
+    "type": "place"
+  }
+}

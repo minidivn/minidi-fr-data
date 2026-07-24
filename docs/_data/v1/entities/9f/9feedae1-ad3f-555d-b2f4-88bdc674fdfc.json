@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q5157981",
+      "title": "WikiData Q-item: Q5157981",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q5157981"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "cave in Vietnam, with long cultural sequence"
+    },
+    "descriptions": {
+      "en": "cave in Vietnam, with long cultural sequence"
+    },
+    "domain": "general",
+    "id": "Q5157981",
+    "labels": {
+      "en": "Hang Con Moong"
+    },
+    "properties": {
+      "coordinates": "Point(105.605 20.2875)"
+    },
+    "type": "place"
+  }
+}

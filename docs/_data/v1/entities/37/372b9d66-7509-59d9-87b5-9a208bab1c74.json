@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q140065838",
+      "title": "WikiData Q-item: Q140065838",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q140065838"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "éruption volcanique à La Réunion"
+    },
+    "descriptions": {
+      "en": "éruption volcanique à La Réunion"
+    },
+    "domain": "general",
+    "id": "Q140065838",
+    "labels": {
+      "en": "éruption du piton de la Fournaise vers 1785 avant Jésus-Christ",
+      "fr": "éruption du piton de la Fournaise vers 1785 avant Jésus-Christ"
+    },
+    "properties": {
+      "point_in_time": "-1784-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

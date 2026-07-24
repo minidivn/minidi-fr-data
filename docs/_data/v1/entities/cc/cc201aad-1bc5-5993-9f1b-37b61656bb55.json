@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q20025740",
+      "title": "WikiData Q-item: Q20025740",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q20025740"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "First women's football season in Vietnam"
+    },
+    "descriptions": {
+      "en": "First women's football season in Vietnam"
+    },
+    "domain": "general",
+    "id": "Q20025740",
+    "labels": {
+      "en": "Giải vô địch bóng đá nữ Việt Nam 1998"
+    },
+    "properties": {
+      "point_in_time": "1998-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

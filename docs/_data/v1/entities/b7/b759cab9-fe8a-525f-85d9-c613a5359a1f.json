@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1159527",
+      "title": "WikiData Q-item: Q1159527",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1159527"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Đặng Thái Sơn (sinh ngày 2 tháng 7 năm 1958) là một nam nghệ sĩ dương cầm người Việt Nam. Ông nổi danh sau khi đoạt giải nhất cuộc thi piano quốc tế Frédéric Chopin lần thứ X (tháng 10 năm 1980) ở Warszawa, Ba Lan. Đó là lần đầu tiên một nghệ sĩ dương cầm châu Á đoạt giải nhất tại cuộc thi này."
+    },
+    "descriptions": {
+      "en": "NSND, nghệ sĩ dương cầm Việt Nam"
+    },
+    "domain": "general",
+    "id": "Q1159527",
+    "labels": {
+      "en": "Đặng Thái Sơn",
+      "fr": "Đặng Thái Sơn"
+    },
+    "properties": {
+      "birth_date": "1958-07-02T00:00:00Z",
+      "occupation": "nghệ sĩ dương cầm",
+      "summary": "Đặng Thái Sơn (sinh ngày 2 tháng 7 năm 1958) là một nam nghệ sĩ dương cầm người Việt Nam. Ông nổi danh sau khi đoạt giải nhất cuộc thi piano quốc tế Frédéric Chopin lần thứ X (tháng 10 năm 1980) ở Warszawa, Ba Lan. Đó là lần đầu tiên một nghệ sĩ dương cầm châu Á đoạt giải nhất tại cuộc thi này."
+    },
+    "type": "person"
+  }
+}

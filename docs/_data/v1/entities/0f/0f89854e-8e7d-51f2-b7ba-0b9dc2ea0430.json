@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q29004736",
+      "title": "WikiData Q-item: Q29004736",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29004736"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "rodent control attempt in 1902 Hanoi"
+    },
+    "descriptions": {
+      "en": "rodent control attempt in 1902 Hanoi"
+    },
+    "domain": "general",
+    "id": "Q29004736",
+    "labels": {
+      "en": "Great Hanoi Rat Massacre"
+    },
+    "properties": {
+      "point_in_time": "1902-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

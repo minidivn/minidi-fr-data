@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1993878",
+      "title": "WikiData Q-item: Q1993878",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1993878"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "phi cơ của Không quân Hoa Kỳ rơi tại miền Nam Việt Nam trong Chiến dịch Babylift"
+    },
+    "descriptions": {
+      "en": "phi cơ của Không quân Hoa Kỳ rơi tại miền Nam Việt Nam trong Chiến dịch Babylift"
+    },
+    "domain": "general",
+    "id": "Q1993878",
+    "labels": {
+      "en": "Tai nạn C5 Tân Sơn Nhứt"
+    },
+    "properties": {
+      "point_in_time": "1975-04-04T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "name": "wikidata",
+    "description": "WikiData — open knowledge graph with structured data about the world",
+    "version": "1.1.0",
+    "endpoint": "https://query.wikidata.org/sparql",
+    "entity_types": [
+      "place",
+      "person",
+      "event",
+      "concept",
+      "organization",
+      "artifact"
+    ],
+    "properties": [
+      "P17 (country)",
+      "P31 (instance of)",
+      "P580 (start time)",
+      "P585 (point in time)",
+      "P569 (date of birth)",
+      "P106 (occupation)",
+      "P625 (coordinate location)",
+      "P27 (country of citizenship)",
+      "P276 (location)"
+    ],
+    "metadata_fields": {
+      "birth_date": "ISO birth date",
+      "point_in_time": "ISO date of event",
+      "death_date": "ISO death date",
+      "occupation": "Occupation label",
+      "end_time": "ISO end date",
+      "coordinates": "Geo: latitude/longitude",
+      "start_time": "ISO start date"
+    },
+    "attribution": "CC0 — WikiData contributors"
+  },
+  {
+    "name": "wikipedia",
+    "description": "Wikipedia — free encyclopedia articles with rich text summaries",
+    "version": "0.1.0",
+    "endpoint": "https://en.wikipedia.org/w/api.php",
+    "entity_types": [
+      "article",
+      "category"
+    ],
+    "properties": [
+      "links_to",
+      "category_member"
+    ],
+    "metadata_fields": {
+      "url": "Full article URL",
+      "summary": "First paragraph of article",
+      "page_id": "Numeric Wikipedia page ID"
+    },
+    "attribution": "CC-BY-SA — Wikipedia contributors"
+  },
+  {
+    "name": "openstreetmap",
+    "description": "OpenStreetMap — editable world map with geographic features and tags",
+    "version": "0.1.0",
+    "endpoint": "https://overpass-api.de/api/interpreter",
+    "entity_types": [
+      "node",
+      "way",
+      "relation",
+      "amenity",
+      "natural"
+    ],
+    "properties": [
+      "connected_to",
+      "member_of",
+      "adjacent_to"
+    ],
+    "metadata_fields": {
+      "lon": "Longitude",
+      "lat": "Latitude",
+      "tags": "OSM key-value tags"
+    },
+    "attribution": "ODbL — OpenStreetMap contributors"
+  },
+  {
+    "name": "dictionary",
+    "description": "Local Dictionary Source — parses raw wordlists and bilingual dictionary bridges",
+    "version": "1.0.0",
+    "endpoint": "local://_data/words,local://_data/dict",
+    "entity_types": [
+      "concept",
+      "other"
+    ],
+    "properties": [
+      "bridges_to",
+      "translates_to"
+    ],
+    "metadata_fields": {
+      "source_list": "Source wordlist filename",
+      "pos": "Part of speech tag",
+      "translations": "Bilingual translation list"
+    },
+    "attribution": "Local dictionary assets"
+  }
+]

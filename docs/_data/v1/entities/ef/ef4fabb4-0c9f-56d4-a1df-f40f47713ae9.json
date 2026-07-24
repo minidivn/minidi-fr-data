@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16629698",
+      "title": "WikiData Q-item: Q16629698",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16629698"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "deuxième et dernier sous-étage du Pliensbachien"
+    },
+    "descriptions": {
+      "en": "deuxième et dernier sous-étage du Pliensbachien"
+    },
+    "domain": "general",
+    "id": "Q16629698",
+    "labels": {
+      "en": "Domérien"
+    },
+    "properties": {
+      "end_time": "-182700000-01-01T00:00:00Z",
+      "start_time": "-186000000-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

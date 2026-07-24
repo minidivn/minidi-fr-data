@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q209064",
+      "title": "WikiData Q-item: Q209064",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q209064"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "montagne des Alpes au Sud de la France"
+    },
+    "descriptions": {
+      "en": "montagne des Alpes au Sud de la France"
+    },
+    "domain": "general",
+    "id": "Q209064",
+    "labels": {
+      "en": "mont Ventoux"
+    },
+    "properties": {
+      "coordinates": "Point(5.283333333 44.166666666)"
+    },
+    "type": "place"
+  }
+}

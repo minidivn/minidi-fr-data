@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4409978",
+      "title": "WikiData Q-item: Q4409978",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4409978"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Le Jerzmanowicien, encore appelé Lincombien-Ranisien-Jerzmanowicien (abrégé en LRJ), est un ensemble culturel archéologique datant de la transition entre Paléolithique moyen et Paléolithique supérieur en Europe, et s'étendant géographiquement de l'Angleterre (appellation de Lincombien d'après le site de Lincombe Hill), à l'Allemagne (Ranisien d'après de site de Ranis) et à la Pologne (Jerzmanowicien d'après la grotte éponyme, située près d'Ojców en Pologne). Les datations oscillent entre environ 45 000 et 39 000 ans calibrés avant le présent selon les endroits. Le complexe LRJ est à la transition entre les cultures du paléolithique moyen et du paléolithique supérieur : d'un côté il semble se rattacher à un moustérien présent en Europe du Nord juste avant (pointes foliacées, débitage Levallois), de l'autre il semble inclure des techniques innovantes venues du Proche-Orient (burins, débitage laminaire)."
+    },
+    "descriptions": {
+      "en": "Cuture archéologique européenne entre le paléolithique moyen et supérieur"
+    },
+    "domain": "general",
+    "id": "Q4409978",
+    "labels": {
+      "en": "Jerzmanowicien",
+      "fr": "Jerzmanowicien"
+    },
+    "properties": {
+      "start_time": "-43000-01-01T00:00:00Z",
+      "summary": "Le Jerzmanowicien, encore appelé Lincombien-Ranisien-Jerzmanowicien (abrégé en LRJ), est un ensemble culturel archéologique datant de la transition entre Paléolithique moyen et Paléolithique supérieur en Europe, et s'étendant géographiquement de l'Angleterre (appellation de Lincombien d'après le site de Lincombe Hill), à l'Allemagne (Ranisien d'après de site de Ranis) et à la Pologne (Jerzmanowicien d'après la grotte éponyme, située près d'Ojców en Pologne). Les datations oscillent entre environ 45 000 et 39 000 ans calibrés avant le présent selon les endroits. Le complexe LRJ est à la transition entre les cultures du paléolithique moyen et du paléolithique supérieur : d'un côté il semble se rattacher à un moustérien présent en Europe du Nord juste avant (pointes foliacées, débitage Levallois), de l'autre il semble inclure des techniques innovantes venues du Proche-Orient (burins, débitage laminaire)."
+    },
+    "type": "event"
+  }
+}

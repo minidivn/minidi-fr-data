@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q2708104",
+      "title": "WikiData Q-item: Q2708104",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q2708104"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "xã thuộc Thành phố Hồ Chí Minh"
+    },
+    "descriptions": {
+      "en": "xã thuộc Thành phố Hồ Chí Minh"
+    },
+    "domain": "general",
+    "id": "Q2708104",
+    "labels": {
+      "en": "Phước Thành"
+    },
+    "properties": {
+      "coordinates": "Point(106.768611111 11.373611111)"
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q86006161",
+      "title": "WikiData Q-item: Q86006161",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q86006161"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "ancient battlefields using tides and beds of stakes in Vietnam"
+    },
+    "descriptions": {
+      "en": "ancient battlefields using tides and beds of stakes in Vietnam"
+    },
+    "domain": "general",
+    "id": "Q86006161",
+    "labels": {
+      "en": "Các trận địa bãi cọc trong lịch sử Việt Nam"
+    },
+    "properties": {
+      "point_in_time": "0981-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

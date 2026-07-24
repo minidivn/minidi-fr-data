@@ -1,0 +1,39 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Một thuật toán sắp xếp phân chia chia để trị hiệu quả."
+    },
+    "descriptions": {
+      "en": "Translation entry for: thuật toán sắp xếp nhanh",
+      "fr": "Một thuật toán sắp xếp phân chia chia để trị hiệu quả."
+    },
+    "domain": "general",
+    "id": "dict:vi:thuật_toán_sắp_xếp_nhanh",
+    "labels": {
+      "en": "thuật toán sắp xếp nhanh",
+      "fr": "thuật toán sắp xếp nhanh"
+    },
+    "properties": {
+      "pos": "noun",
+      "translations": "クイックソート"
+    },
+    "type": "concept"
+  }
+}

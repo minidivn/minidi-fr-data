@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q33204",
+      "title": "WikiData Q-item: Q33204",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q33204"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Móng Cái là một thành phố biên giới cũ thuộc tỉnh Quảng Ninh, Việt Nam.\nThành phố nằm bên bờ sông Ka Long, cách thành phố Hạ Long 178 km. Móng Cái giáp với Trung Quốc, có đường biên giới trên biển và đất liền dài hơn 70 km."
+    },
+    "descriptions": {
+      "en": "Thành phố cũ thuộc tỉnh Quảng Ninh"
+    },
+    "domain": "general",
+    "id": "Q33204",
+    "labels": {
+      "en": "Móng Cái",
+      "fr": "Móng Cái"
+    },
+    "properties": {
+      "coordinates": "Point(107.967948 21.529809)",
+      "summary": "Móng Cái là một thành phố biên giới cũ thuộc tỉnh Quảng Ninh, Việt Nam.\nThành phố nằm bên bờ sông Ka Long, cách thành phố Hạ Long 178 km. Móng Cái giáp với Trung Quốc, có đường biên giới trên biển và đất liền dài hơn 70 km."
+    },
+    "type": "place"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-07-24T04:13:54.212934+00:00",
+  "description": "Generic hypergraph schema — flat nodes + edges with compact field names",
+  "edge_count": 0,
+  "entity_count": 2071,
+  "fields": {
+    "edges": {
+      "r": "Relation/property label",
+      "s": "Source node Q-id",
+      "t": "Target node Q-id",
+      "tl": "Target node English label"
+    },
+    "nodes": {
+      "d": "English description",
+      "dl": "Local description (optional)",
+      "id": "WikiData Q-id",
+      "l": "English label",
+      "ll": "Local/native label (optional)",
+      "m": "Metadata map (coordinates, dates, occupations)",
+      "t": "Entity type: place/person/event/concept/organization/artifact/other",
+      "u": "WikiData URL"
+    }
+  },
+  "partitions": {
+    "entities": "Split by NodeType",
+    "relations": "Split by property category",
+    "timeline": "Split by century bucket"
+  },
+  "version": "1"
+}

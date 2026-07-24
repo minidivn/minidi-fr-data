@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4940724",
+      "title": "WikiData Q-item: Q4940724",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4940724"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1944 strategic bombing of south-east Asia during WWII"
+    },
+    "descriptions": {
+      "en": "1944 strategic bombing of south-east Asia during WWII"
+    },
+    "domain": "general",
+    "id": "Q4940724",
+    "labels": {
+      "en": "Chiến dịch ném bom Đông Nam Á (1944-1945)"
+    },
+    "properties": {
+      "point_in_time": "1940-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12938",
+      "title": "WikiData Q-item: Q12938",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12938"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "personnalité politique française"
+    },
+    "descriptions": {
+      "en": "personnalité politique française"
+    },
+    "domain": "general",
+    "id": "Q12938",
+    "labels": {
+      "en": "Alain Krivine"
+    },
+    "properties": {
+      "birth_date": "1941-07-10T00:00:00Z",
+      "death_date": "2022-03-12T00:00:00Z",
+      "occupation": "personnalité politique"
+    },
+    "type": "person"
+  }
+}

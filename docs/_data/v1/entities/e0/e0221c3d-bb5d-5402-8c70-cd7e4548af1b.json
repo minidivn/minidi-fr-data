@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q116949460",
+      "title": "WikiData Q-item: Q116949460",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q116949460"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": ""
+    },
+    "descriptions": {
+      "en": ""
+    },
+    "domain": "general",
+    "id": "Q116949460",
+    "labels": {
+      "en": "nền móng hà nội",
+      "fr": "nền móng hà nội"
+    },
+    "properties": {
+      "point_in_time": "1010-10-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

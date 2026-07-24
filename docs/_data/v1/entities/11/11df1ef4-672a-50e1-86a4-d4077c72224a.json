@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q29712",
+      "title": "WikiData Q-item: Q29712",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q29712"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Trường Trung học phổ thông chuyên Hà Nội – Amsterdam (tiếng Anh: Hanoi – Amsterdam Highschool for the Gifted) hay còn được gọi đơn giản là Trường Ams là một trường trung học phổ thông chuyên công lập của thành phố Hà Nội. Trường được thành lập vào năm 1985 với sự hỗ trợ từ thủ đô Amsterdam (Hà Lan) và hiện là một trong bốn trường trung học phổ thông chuyên trực thuộc Sở Giáo dục và Đào tạo Hà Nội, bên cạnh Chu Văn An, Nguyễn Huệ và Sơn Tây. Trong nhiều năm, trường được đánh giá là một trong những cơ sở giáo dục có chất lượng hàng đầu tại Việt Nam, với thành tích học tập xuất sắc và tỉ lệ học sinh đỗ vào các đại học danh tiếng trong và ngoài nước cao."
+    },
+    "descriptions": {
+      "en": "Cơ sở giáo dục trung học tại phường Yên Hòa"
+    },
+    "domain": "general",
+    "id": "Q29712",
+    "labels": {
+      "en": "Trường trung học phổ thông chuyên Hà Nội Amsterdam",
+      "fr": "Trường trung học phổ thông chuyên Hà Nội Amsterdam"
+    },
+    "properties": {
+      "coordinates": "Point(105.7981 21.0068)",
+      "summary": "Trường Trung học phổ thông chuyên Hà Nội – Amsterdam (tiếng Anh: Hanoi – Amsterdam Highschool for the Gifted) hay còn được gọi đơn giản là Trường Ams là một trường trung học phổ thông chuyên công lập của thành phố Hà Nội. Trường được thành lập vào năm 1985 với sự hỗ trợ từ thủ đô Amsterdam (Hà Lan) và hiện là một trong bốn trường trung học phổ thông chuyên trực thuộc Sở Giáo dục và Đào tạo Hà Nội, bên cạnh Chu Văn An, Nguyễn Huệ và Sơn Tây. Trong nhiều năm, trường được đánh giá là một trong những cơ sở giáo dục có chất lượng hàng đầu tại Việt Nam, với thành tích học tập xuất sắc và tỉ lệ học sinh đỗ vào các đại học danh tiếng trong và ngoài nước cao."
+    },
+    "type": "place"
+  }
+}

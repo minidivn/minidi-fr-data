@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1319960",
+      "title": "WikiData Q-item: Q1319960",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1319960"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Quận nội thành cũ thuộc thành phố Hồ Chí Minh"
+    },
+    "descriptions": {
+      "en": "Quận nội thành cũ thuộc thành phố Hồ Chí Minh"
+    },
+    "domain": "general",
+    "id": "Q1319960",
+    "labels": {
+      "en": "Quận 11"
+    },
+    "properties": {
+      "coordinates": "Point(106.645833333 10.7625)"
+    },
+    "type": "place"
+  }
+}

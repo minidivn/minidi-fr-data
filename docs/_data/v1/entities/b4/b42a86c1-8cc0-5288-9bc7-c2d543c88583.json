@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q43286",
+      "title": "WikiData Q-item: Q43286",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q43286"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "caves in Dunhuang City, Gansu, China"
+    },
+    "descriptions": {
+      "en": "caves in Dunhuang City, Gansu, China"
+    },
+    "domain": "general",
+    "id": "Q43286",
+    "labels": {
+      "en": "Hang Mạc Cao"
+    },
+    "properties": {
+      "coordinates": "Point(94.804166666 40.037222222)"
+    },
+    "type": "place"
+  }
+}

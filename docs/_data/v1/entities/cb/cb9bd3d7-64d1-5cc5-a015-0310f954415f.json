@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q8740",
+      "title": "WikiData Q-item: Q8740",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q8740"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Chiến tranh Việt Nam, Chiến tranh Đông Dương lần thứ hai, hay Cuộc kháng chiến chống Mỹ cứu nước theo cách gọi ở Việt Nam, là cuộc xung đột diễn ra tại Việt Nam, Lào và Campuchia từ ngày 1 tháng 11 năm 1955 đến ngày 30 tháng 4 năm 1975 khi chính phủ Việt Nam Cộng hòa đầu hàng chính phủ cách mạng lâm thời Cộng hòa miền Nam Việt Nam. Đây là giai đoạn thứ hai của chiến tranh Đông Dương giữa Hoa Kỳ, Việt Nam Cộng hòa, Vương quốc Lào, Vương quốc Campuchia – Cộng hòa Khmer, các đồng minh chống cộng (Hàn Quốc, Úc, New Zealand, Thái Lan, Philippines) với Việt Nam Dân chủ Cộng hòa, Mặt trận Dân tộc Giải phóng miền Nam / Cộng hòa miền Nam Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo cùng các đồng minh Pathet Lào, Khmer..."
+    },
+    "descriptions": {
+      "en": "xung đột quân sự ở Đông Dương giai đoạn 1955–1975"
+    },
+    "domain": "general",
+    "id": "Q8740",
+    "labels": {
+      "en": "Chiến tranh Việt Nam",
+      "fr": "Chiến tranh Việt Nam"
+    },
+    "properties": {
+      "end_time": "1975-04-30T00:00:00Z",
+      "start_time": "1955-11-01T00:00:00Z",
+      "summary": "Chiến tranh Việt Nam, Chiến tranh Đông Dương lần thứ hai, hay Cuộc kháng chiến chống Mỹ cứu nước theo cách gọi ở Việt Nam, là cuộc xung đột diễn ra tại Việt Nam, Lào và Campuchia từ ngày 1 tháng 11 năm 1955 đến ngày 30 tháng 4 năm 1975 khi chính phủ Việt Nam Cộng hòa đầu hàng chính phủ cách mạng lâm thời Cộng hòa miền Nam Việt Nam. Đây là giai đoạn thứ hai của chiến tranh Đông Dương giữa Hoa Kỳ, Việt Nam Cộng hòa, Vương quốc Lào, Vương quốc Campuchia – Cộng hòa Khmer, các đồng minh chống cộng (Hàn Quốc, Úc, New Zealand, Thái Lan, Philippines) với Việt Nam Dân chủ Cộng hòa, Mặt trận Dân tộc Giải phóng miền Nam / Cộng hòa miền Nam Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo cùng các đồng minh Pathet Lào, Khmer..."
+    },
+    "type": "event"
+  }
+}

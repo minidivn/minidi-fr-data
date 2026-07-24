@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q64518271",
+      "title": "WikiData Q-item: Q64518271",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q64518271"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "site de la liste indicative du patrimoine mondial au Danemark"
+    },
+    "descriptions": {
+      "en": "site de la liste indicative du patrimoine mondial au Danemark"
+    },
+    "domain": "general",
+    "id": "Q64518271",
+    "labels": {
+      "en": "forteresses circulaires vikings"
+    },
+    "properties": {
+      "coordinates": "Point(11.265277777 55.394166666)"
+    },
+    "type": "place"
+  }
+}

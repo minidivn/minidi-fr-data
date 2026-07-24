@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q7833286",
+      "title": "WikiData Q-item: Q7833286",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q7833286"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "1516-21 uprising against the Lê dynasty of Vietnam"
+    },
+    "descriptions": {
+      "en": "1516-21 uprising against the Lê dynasty of Vietnam"
+    },
+    "domain": "general",
+    "id": "Q7833286",
+    "labels": {
+      "en": "Tran Cao rebellion"
+    },
+    "properties": {
+      "end_time": "1521-01-01T00:00:00Z",
+      "point_in_time": "1516-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

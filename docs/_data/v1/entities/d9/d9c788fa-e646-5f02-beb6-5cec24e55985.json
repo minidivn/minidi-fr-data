@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q135274656",
+      "title": "WikiData Q-item: Q135274656",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q135274656"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Unesco World Heritage Site in Iran"
+    },
+    "descriptions": {
+      "en": "Unesco World Heritage Site in Iran"
+    },
+    "domain": "general",
+    "id": "Q135274656",
+    "labels": {
+      "en": "Prehistoric Sites of the Khorramabad Valley"
+    },
+    "properties": {
+      "coordinates": "Point(48.356666666 33.4425)"
+    },
+    "type": "place"
+  }
+}

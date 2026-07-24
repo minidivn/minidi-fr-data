@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q32198680",
+      "title": "WikiData Q-item: Q32198680",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q32198680"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "island in Vietnam"
+    },
+    "descriptions": {
+      "en": "island in Vietnam"
+    },
+    "domain": "general",
+    "id": "Q32198680",
+    "labels": {
+      "en": "Hòn Lao"
+    },
+    "properties": {
+      "coordinates": "Point(108.300555555 10.91)"
+    },
+    "type": "place"
+  }
+}

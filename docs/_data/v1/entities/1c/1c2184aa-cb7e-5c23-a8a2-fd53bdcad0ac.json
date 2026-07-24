@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4156",
+      "title": "WikiData Q-item: Q4156",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4156"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sân bay Đồng Hới hay Cảng hàng không Đồng Hới (IATA: VDH, ICAO: VVDH) là một sân bay tại phường Đồng Thuận, tỉnh Quảng Trị (trước đây là xã Lộc Ninh, thành phố Đồng Hới, Quảng Bình), Sân bay này được thực dân Pháp xây dựng vào thập niên 1930, được nâng cấp và sử dụng trong chiến tranh Việt Nam, ít được sử dụng sau năm 1975. Cụm cảng hàng không miền Bắc đã khởi công xây dựng lại vào ngày 30 tháng 8 năm 2006 và đã hoàn thành và đưa vào sử dụng vào ngày 18 tháng 5 năm 2008. Sân bay nằm về phía bắc, cách trung tâm phường Đồng Hới 6 km, gần giáp bờ Biển Đông và có đường băng 300 m về phía đông Quốc lộ 1. Năm 2011, số lượt chuyến phục vụ là 956 lượt chuyến với 68."
+    },
+    "descriptions": {
+      "en": "airport located in Loc Ninh commune, Vietnam"
+    },
+    "domain": "general",
+    "id": "Q4156",
+    "labels": {
+      "en": "Sân bay Đồng Hới",
+      "fr": "Sân bay Đồng Hới"
+    },
+    "properties": {
+      "coordinates": "Point(106.590555555 17.515)",
+      "summary": "Sân bay Đồng Hới hay Cảng hàng không Đồng Hới (IATA: VDH, ICAO: VVDH) là một sân bay tại phường Đồng Thuận, tỉnh Quảng Trị (trước đây là xã Lộc Ninh, thành phố Đồng Hới, Quảng Bình), Sân bay này được thực dân Pháp xây dựng vào thập niên 1930, được nâng cấp và sử dụng trong chiến tranh Việt Nam, ít được sử dụng sau năm 1975. Cụm cảng hàng không miền Bắc đã khởi công xây dựng lại vào ngày 30 tháng 8 năm 2006 và đã hoàn thành và đưa vào sử dụng vào ngày 18 tháng 5 năm 2008. Sân bay nằm về phía bắc, cách trung tâm phường Đồng Hới 6 km, gần giáp bờ Biển Đông và có đường băng 300 m về phía đông Quốc lộ 1. Năm 2011, số lượt chuyến phục vụ là 956 lượt chuyến với 68."
+    },
+    "type": "place"
+  }
+}

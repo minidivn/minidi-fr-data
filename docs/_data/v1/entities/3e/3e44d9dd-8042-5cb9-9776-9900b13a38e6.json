@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q6711767",
+      "title": "WikiData Q-item: Q6711767",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q6711767"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Trận Lạng Sơn (1885) hay Pháp đánh Lạng Sơn là một chiến dịch gồm vài trận giao tranh lớn nhỏ giữa quân Pháp và quân Thanh, đã diễn ra từ đầu tháng 2 năm 1885 và kết thúc vào 1 tháng 4 cùng năm.\nKết thúc cuộc chiến, quân Pháp đại bại khiến Chính phủ Jules Ferry ở Paris bị đổ, nhưng cuối cùng Pháp - Thanh cũng ký kết được hiệp ước nhằm chấm dứt chiến tranh. Điều đó cũng có nghĩa, kể từ ngày 9 tháng 6 năm 1885 (ngày ký hiệp ước Thiên Tân mới), nhà Thanh chính thức thừa nhận quyền đô hộ của thực dân Pháp ở Việt Nam."
+    },
+    "descriptions": {
+      "en": "1885 French offensive in Sino-French War"
+    },
+    "domain": "general",
+    "id": "Q6711767",
+    "labels": {
+      "en": "Trận Lạng Sơn",
+      "fr": "Trận Lạng Sơn"
+    },
+    "properties": {
+      "end_time": "1885-02-13T00:00:00Z",
+      "start_time": "1885-02-03T00:00:00Z",
+      "summary": "Trận Lạng Sơn (1885) hay Pháp đánh Lạng Sơn là một chiến dịch gồm vài trận giao tranh lớn nhỏ giữa quân Pháp và quân Thanh, đã diễn ra từ đầu tháng 2 năm 1885 và kết thúc vào 1 tháng 4 cùng năm.\nKết thúc cuộc chiến, quân Pháp đại bại khiến Chính phủ Jules Ferry ở Paris bị đổ, nhưng cuối cùng Pháp - Thanh cũng ký kết được hiệp ước nhằm chấm dứt chiến tranh. Điều đó cũng có nghĩa, kể từ ngày 9 tháng 6 năm 1885 (ngày ký hiệp ước Thiên Tân mới), nhà Thanh chính thức thừa nhận quyền đô hộ của thực dân Pháp ở Việt Nam."
+    },
+    "type": "event"
+  }
+}

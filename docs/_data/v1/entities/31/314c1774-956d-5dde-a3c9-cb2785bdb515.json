@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4008482",
+      "title": "WikiData Q-item: Q4008482",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4008482"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Đồng (tiếng Trung: 文錢 văn tiền; chữ Nôm: 銅錢 đồng tiền; tiếng Pháp: sapèque) là loại tiền xu tròn khoét lỗ hình vuông ở giữa, được dùng làm tiền tệ chính thức của Việt Nam từ thời nhà Đinh năm 970 đến thời nhà Nguyễn năm 1945, và vẫn được lưu hành ở miền Bắc Việt Nam cho đến năm 1948. Loại tiền tương tự cũng được lưu hành ở Trung Hoa, Nhật Bản, Triều Tiên và Lưu Cầu trong nhiều thế kỷ. Mặc dù phần lớn tiền xu của Việt Nam trong suốt lịch sử là tiền đồng, tiền chì, sắt (từ năm 1528) và kẽm (từ năm 1740) cũng được lưu hành song song với tỷ giá dao động (1 đồng tiền mặt bằng 10 đồng kẽm vào năm 1882)."
+    },
+    "descriptions": {
+      "en": "đơn vị tiền tệ cổ Việt Nam"
+    },
+    "domain": "general",
+    "id": "Q4008482",
+    "labels": {
+      "en": "văn",
+      "fr": "văn"
+    },
+    "properties": {
+      "end_time": "1945-01-01T00:00:00Z",
+      "start_time": "0960-01-01T00:00:00Z",
+      "summary": "Đồng (tiếng Trung: 文錢 văn tiền; chữ Nôm: 銅錢 đồng tiền; tiếng Pháp: sapèque) là loại tiền xu tròn khoét lỗ hình vuông ở giữa, được dùng làm tiền tệ chính thức của Việt Nam từ thời nhà Đinh năm 970 đến thời nhà Nguyễn năm 1945, và vẫn được lưu hành ở miền Bắc Việt Nam cho đến năm 1948. Loại tiền tương tự cũng được lưu hành ở Trung Hoa, Nhật Bản, Triều Tiên và Lưu Cầu trong nhiều thế kỷ. Mặc dù phần lớn tiền xu của Việt Nam trong suốt lịch sử là tiền đồng, tiền chì, sắt (từ năm 1528) và kẽm (từ năm 1740) cũng được lưu hành song song với tỷ giá dao động (1 đồng tiền mặt bằng 10 đồng kẽm vào năm 1882)."
+    },
+    "type": "event"
+  }
+}

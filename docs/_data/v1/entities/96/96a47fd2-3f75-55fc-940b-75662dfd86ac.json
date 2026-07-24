@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q221901",
+      "title": "WikiData Q-item: Q221901",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q221901"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "L'Aurignacien est une culture du Paléolithique supérieur au Moyen-Orient et en Europe. Il débute vers 43 000 ans AP en Europe de l'Ouest, avec l'arrivée d'une troisième vague d'Homo sapiens en provenance du Proche-Orient. L'Aurignacien est caractérisé par ses industries osseuse (sagaies à bases fendues) et lithique (pièces carénées, lamelles, lames retouchées, etc.). Il est précédé par les industries dites du Paléolithique supérieur initial, telles que l'Uluzzien, le Châtelperronien et le Jerzmanowicien, puis par le Protoaurignacien. Le Gravettien succède en Europe à l'Aurignacien à partir de 33 000 ans AP."
+    },
+    "descriptions": {
+      "en": "principale culture qui ouvre le Paléolithique supérieur en Europe."
+    },
+    "domain": "general",
+    "id": "Q221901",
+    "labels": {
+      "en": "Aurignacien",
+      "fr": "Aurignacien"
+    },
+    "properties": {
+      "end_time": "-29000-01-01T00:00:00Z",
+      "start_time": "-38000-01-01T00:00:00Z",
+      "summary": "L'Aurignacien est une culture du Paléolithique supérieur au Moyen-Orient et en Europe. Il débute vers 43 000 ans AP en Europe de l'Ouest, avec l'arrivée d'une troisième vague d'Homo sapiens en provenance du Proche-Orient. L'Aurignacien est caractérisé par ses industries osseuse (sagaies à bases fendues) et lithique (pièces carénées, lamelles, lames retouchées, etc.). Il est précédé par les industries dites du Paléolithique supérieur initial, telles que l'Uluzzien, le Châtelperronien et le Jerzmanowicien, puis par le Protoaurignacien. Le Gravettien succède en Europe à l'Aurignacien à partir de 33 000 ans AP."
+    },
+    "type": "event"
+  }
+}

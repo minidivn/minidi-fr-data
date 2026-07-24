@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q243",
+      "title": "WikiData Q-item: Q243",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q243"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "tour de fer puddlé de 330 mètres à Paris, France"
+    },
+    "descriptions": {
+      "en": "tour de fer puddlé de 330 mètres à Paris, France"
+    },
+    "domain": "general",
+    "id": "Q243",
+    "labels": {
+      "en": "tour Eiffel"
+    },
+    "properties": {
+      "coordinates": "Point(2.294479 48.858296)"
+    },
+    "type": "place"
+  }
+}

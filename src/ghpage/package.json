@@ -1,0 +1,19 @@
+{
+  "name": "minidi-vn-ghpage",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@minidi/minidi-data-ghpage": "github:minidivn/minidi-data-ghpage#v1.0.1",
+    "leaflet": "1.9.4",
+    "lit": "^3.2.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

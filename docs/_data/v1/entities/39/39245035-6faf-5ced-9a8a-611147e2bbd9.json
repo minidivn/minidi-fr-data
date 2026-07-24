@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T04:13:49.345277800+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T04:13:49.345277800+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q3354756",
+      "title": "WikiData Q-item: Q3354756",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q3354756"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Cuộc hành quân Lorraine là một chiến dịch quân sự của Pháp trong chiến tranh Đông Dương."
+    },
+    "descriptions": {
+      "en": "1952 military operation of the First Indochina War"
+    },
+    "domain": "general",
+    "id": "Q3354756",
+    "labels": {
+      "en": "Cuộc hành quân Lorraine",
+      "fr": "Cuộc hành quân Lorraine"
+    },
+    "properties": {
+      "end_time": "1952-11-08T00:00:00Z",
+      "start_time": "1952-10-29T00:00:00Z",
+      "summary": "Cuộc hành quân Lorraine là một chiến dịch quân sự của Pháp trong chiến tranh Đông Dương."
+    },
+    "type": "event"
+  }
+}
