@@ -1,14 +1,16 @@
 {
-  "word:fr:prêt": "c6abbc2b-ac5e-5ba1-a5f7-13b82dd6569f.json",
+  "Q10742633": "c66b880b-0b80-55df-9f91-807326167590.json",
   "word:vi:ấu_trĩ": "c6c2d9cb-89d2-53ed-b593-18c26e1b4ec1.json",
   "Q31999644": "c6e1d6f2-837a-5c44-9b9e-4d6216e77d07.json",
+  "word:vi:ảnh_kế": "c6997e57-9995-5548-a628-8e9a278f0c8e.json",
+  "word:vi:ặc": "c6bf8b9f-f742-5e7d-8358-d25e6c13eb14.json",
+  "word:vi:a_priori": "c67de93e-5a47-52d1-bcde-3a6a5f06b5a2.json",
+  "word:vi:ăn_hàng": "c63d0b98-6db2-576e-9ea5-9add4c86f0de.json",
+  "word:vi:bao_gồm": "c66c98f5-78e3-5d00-8336-8b94581d4b25.json",
+  "word:fr:prêt": "c6abbc2b-ac5e-5ba1-a5f7-13b82dd6569f.json",
+  "word:fr:parti": "c6d76186-0c36-500f-a645-b0b5a8c4fa84.json",
   "word:vi:ẩn_cư": "c60bb3a9-f351-5dc5-a754-8d2d6dcd3dbe.json",
   "word:fr:t'": "c678a5b4-1b27-598e-b4a8-5b845c82a8b2.json",
-  "word:vi:a_priori": "c67de93e-5a47-52d1-bcde-3a6a5f06b5a2.json",
-  "word:vi:ảnh_kế": "c6997e57-9995-5548-a628-8e9a278f0c8e.json",
-  "Q10742633": "c66b880b-0b80-55df-9f91-807326167590.json",
-  "word:vi:ặc": "c6bf8b9f-f742-5e7d-8358-d25e6c13eb14.json",
-  "word:fr:parti": "c6d76186-0c36-500f-a645-b0b5a8c4fa84.json",
-  "word:vi:bao_gồm": "c66c98f5-78e3-5d00-8336-8b94581d4b25.json",
-  "word:vi:ăn_hàng": "c63d0b98-6db2-576e-9ea5-9add4c86f0de.json"
+  "word:fr:acceptés": "c658b793-f1dc-538e-b19c-650198971b3b.json",
+  "word:fr:1ères": "c617f32f-88f2-5c01-a8b9-df3452bf2c8f.json"
 }

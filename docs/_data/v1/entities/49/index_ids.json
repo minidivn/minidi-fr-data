@@ -1,12 +1,16 @@
 {
-  "word:fr:dessus": "4903daa6-ad8e-5ca4-af9c-c8882e2b2fc2.json",
-  "word:vi:bảng_danh_dự": "490f44a4-b8be-5df8-8eac-3b4a76ec9163.json",
-  "word:vi:bách_hóa": "494bcc92-2077-587e-a777-7e4349b876a2.json",
-  "word:vi:bài_tiết": "49ca3121-150b-58ff-9666-dba0ee65de8d.json",
-  "word:vi:acid_béo": "4955e231-0328-5aae-8d38-5aba1d574b23.json",
-  "Q2754089": "494a494d-b872-550a-a431-b3f2e39a41b3.json",
-  "word:fr:un": "4984772e-f7f9-5d90-b450-1a03aacf76e5.json",
   "word:fr:passe": "49fc36a9-9425-5492-a5d3-cb16981bfed2.json",
+  "word:fr:acceptables": "49584a65-6224-5a2c-9539-ad9813ce9738.json",
+  "word:fr:absents": "49008eb4-183c-55e1-a2e7-6111364cdc66.json",
+  "word:vi:acid_béo": "4955e231-0328-5aae-8d38-5aba1d574b23.json",
+  "word:fr:un": "4984772e-f7f9-5d90-b450-1a03aacf76e5.json",
   "word:fr:ma": "49b91792-8b9a-5f97-b3bb-8ce726fe5876.json",
-  "word:fr:premier": "49fd0fac-dfc5-598e-9a07-613ab1d0f0dd.json"
+  "word:vi:bài_tiết": "49ca3121-150b-58ff-9666-dba0ee65de8d.json",
+  "word:fr:absenté": "499e1376-fee9-5ed8-9cf0-35dc2d83efdc.json",
+  "word:fr:a-t-elle": "4920d42f-9ce2-5a1f-9e7b-9a81a6e669fc.json",
+  "word:fr:dessus": "4903daa6-ad8e-5ca4-af9c-c8882e2b2fc2.json",
+  "word:vi:bách_hóa": "494bcc92-2077-587e-a777-7e4349b876a2.json",
+  "word:vi:bảng_danh_dự": "490f44a4-b8be-5df8-8eac-3b4a76ec9163.json",
+  "word:fr:premier": "49fd0fac-dfc5-598e-9a07-613ab1d0f0dd.json",
+  "Q2754089": "494a494d-b872-550a-a431-b3f2e39a41b3.json"
 }

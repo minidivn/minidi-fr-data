@@ -1,12 +1,13 @@
 {
-  "word:vi:ái_lực_điện_tử": "2f741a42-b7d3-5277-bdf2-856abaab666a.json",
-  "word:fr:vas": "2ff7dfa9-f622-53a4-b598-1abe26a02a09.json",
   "word:vi:ấm_cúng": "2f5e7ee2-963f-5d70-83af-10f2378de806.json",
   "word:vi:ban_phước": "2f381290-4a1f-56fc-ac7a-7a76950e3efc.json",
-  "word:fr:trouver": "2fed3995-31c2-539f-9051-74d888926a46.json",
-  "word:fr:contre": "2f2c2236-745f-5e98-9c79-74d6d70dfe38.json",
-  "word:vi:âm_vị": "2f5561b0-e982-5f72-a427-2959b2eb6120.json",
   "word:vi:An_Hải_Đông": "2fbf7ce2-3e59-5105-804b-707b293144d9.json",
+  "word:fr:amis": "2f8a3ef6-42f6-5b6c-95f9-a715c92343eb.json",
+  "word:vi:âm_vị": "2f5561b0-e982-5f72-a427-2959b2eb6120.json",
+  "word:vi:ái_lực_điện_tử": "2f741a42-b7d3-5277-bdf2-856abaab666a.json",
+  "word:fr:contre": "2f2c2236-745f-5e98-9c79-74d6d70dfe38.json",
+  "word:fr:trouver": "2fed3995-31c2-539f-9051-74d888926a46.json",
+  "word:fr:abeille": "2f647e5c-0e85-5144-a4a6-b462bb98901f.json",
   "Q131323904": "2fd6d78b-0b60-5e1d-9189-cddd82528020.json",
-  "word:fr:amis": "2f8a3ef6-42f6-5b6c-95f9-a715c92343eb.json"
+  "word:fr:vas": "2ff7dfa9-f622-53a4-b598-1abe26a02a09.json"
 }

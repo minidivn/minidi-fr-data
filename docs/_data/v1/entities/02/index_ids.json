@@ -1,11 +1,12 @@
 {
-  "word:vi:ăn_bẫm": "025651da-dc69-585e-b2f9-6e329b9651ce.json",
-  "word:fr:venir": "02a09833-1daa-507a-8ebc-96fb085bf10d.json",
+  "word:fr:abandonnerai": "02bd9188-1826-54a2-82db-5dca50fe625e.json",
   "word:vi:án": "028d0ead-4713-5e49-b09b-fdc89bc47e90.json",
-  "word:vi:ảnh_ảo": "02eba433-ff38-54d2-9bf8-7c5b64813c84.json",
+  "word:fr:maison": "020f77c7-f821-592b-b9c5-31a57c123577.json",
   "word:vi:áp_thấp": "020b486f-7a46-5e26-b395-d9ec2e7883bc.json",
   "word:fr:travail": "02d99e3c-cd46-5139-ace0-2c0c61e34812.json",
+  "word:vi:ăn_bẫm": "025651da-dc69-585e-b2f9-6e329b9651ce.json",
+  "word:fr:venir": "02a09833-1daa-507a-8ebc-96fb085bf10d.json",
+  "word:vi:ảo_tượng": "021fcc34-18a0-5cdb-8036-214bdc65910a.json",
   "word:vi:bãi_bồi": "02ca352a-4332-529c-999f-d43c7470815c.json",
-  "word:fr:maison": "020f77c7-f821-592b-b9c5-31a57c123577.json",
-  "word:vi:ảo_tượng": "021fcc34-18a0-5cdb-8036-214bdc65910a.json"
+  "word:vi:ảnh_ảo": "02eba433-ff38-54d2-9bf8-7c5b64813c84.json"
 }

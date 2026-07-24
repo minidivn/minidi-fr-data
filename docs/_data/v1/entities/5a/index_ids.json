@@ -1,14 +1,17 @@
 {
+  "word:vi:bài_luận": "5aaf8069-048b-54a3-8ad4-c4d9e37d2959.json",
+  "word:fr:40e": "5a1cd295-0cd2-56fe-9520-5235de3a9bf1.json",
+  "Q10747193": "5a4bd5c9-94d9-5896-aead-dbd508102581.json",
+  "word:fr:10e": "5ad65810-2ce1-5c1a-8823-a737de09f11d.json",
   "word:vi:ác_liệt": "5a63ab5b-372c-555f-9bd2-b3122fbc23af.json",
-  "Q3365251": "5a909d42-dc1a-5750-b971-dfe33122d9da.json",
+  "word:fr:abstraction": "5a227111-93dd-5d5d-820b-63db76852bf8.json",
   "word:vi:bãi_trường": "5a181455-a34f-55ad-a697-ddc62e960cd8.json",
   "word:vi:a-ga": "5a1b26e6-5468-55b3-a635-c5ed4aabf639.json",
-  "Q10747193": "5a4bd5c9-94d9-5896-aead-dbd508102581.json",
-  "word:vi:ả_đào": "5aba12b4-7618-5d42-9b91-b295720cb029.json",
+  "Q3365251": "5a909d42-dc1a-5750-b971-dfe33122d9da.json",
   "word:vi:A-đi-xơn": "5a1c519a-216e-5e50-ab09-fd243dda208d.json",
+  "word:vi:album": "5ad3ad89-1ed2-5a05-b567-bd27ddcd6209.json",
   "word:vi:bạch": "5a33ff82-3d0f-5ec2-b6e1-846b8adae4a5.json",
+  "word:vi:ả_đào": "5aba12b4-7618-5d42-9b91-b295720cb029.json",
   "word:vi:âm_thanh": "5a10d183-c1e3-5963-932c-64896b4e1a5a.json",
-  "word:vi:bài_luận": "5aaf8069-048b-54a3-8ad4-c4d9e37d2959.json",
-  "word:fr:car": "5a7a929e-efbc-54bc-9175-e53a3fb3838f.json",
-  "word:vi:album": "5ad3ad89-1ed2-5a05-b567-bd27ddcd6209.json"
+  "word:fr:car": "5a7a929e-efbc-54bc-9175-e53a3fb3838f.json"
 }

@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q1130885",
+      "title": "WikiData Q-item: Q1130885",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q1130885"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "troisième et dernier étage du Silésien"
+    },
+    "descriptions": {
+      "en": "troisième et dernier étage du Silésien"
+    },
+    "domain": "general",
+    "id": "Q1130885",
+    "labels": {
+      "en": "Stéphanien"
+    },
+    "properties": {
+      "end_time": "-298900000-01-01T00:00:00Z",
+      "start_time": "-307000000-01-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

@@ -1,13 +1,15 @@
 {
-  "word:vi:ăn_báo_cô": "91aef587-d535-5bea-9bc5-7e53edce1b97.json",
-  "word:fr:air": "91c33026-42da-5b5f-a187-ce611dce6813.json",
-  "word:vi:áo_bông": "910fb144-81c3-58fe-bccf-7ae729b0563c.json",
-  "word:vi:bán_cầu": "910185d6-f172-58b1-bdff-9d145086687e.json",
   "word:vi:ao_hồ": "913e4059-d4f5-5fac-b4c8-e2e4ddee6e49.json",
-  "word:vi:âm_hạch": "91a96441-b4ac-56d4-9b13-4aebff7f7a5b.json",
-  "word:vi:ba_bảy": "9187ad1f-4820-59a5-94cb-4c19716c5bea.json",
+  "word:fr:téléphone": "91655fd3-a7ae-54e7-b309-937009c668d2.json",
   "word:vi:ba_gai": "91e3eff0-6f1c-5139-9d88-fcc0022c42ef.json",
+  "word:vi:bán_cầu": "910185d6-f172-58b1-bdff-9d145086687e.json",
   "word:vi:ăn_ảnh": "9176a019-8979-538a-b180-c4a6053f5eb2.json",
   "word:vi:bạn_cũ": "910de5e4-9f65-52b2-b12a-14b5afc202f4.json",
-  "word:fr:téléphone": "91655fd3-a7ae-54e7-b309-937009c668d2.json"
+  "word:vi:ăn_báo_cô": "91aef587-d535-5bea-9bc5-7e53edce1b97.json",
+  "word:vi:áo_bông": "910fb144-81c3-58fe-bccf-7ae729b0563c.json",
+  "word:vi:âm_hạch": "91a96441-b4ac-56d4-9b13-4aebff7f7a5b.json",
+  "word:vi:ba_bảy": "9187ad1f-4820-59a5-94cb-4c19716c5bea.json",
+  "word:fr:23h30": "9197c836-e298-5a62-9749-cc4c11050448.json",
+  "word:fr:15e": "91742586-228e-50c6-8ba3-82ef393eeb28.json",
+  "word:fr:air": "91c33026-42da-5b5f-a187-ce611dce6813.json"
 }

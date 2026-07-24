@@ -1,11 +1,13 @@
 {
+  "word:fr:abuses": "8ab8b194-0dba-5ebb-a117-7811509d2654.json",
   "word:vi:A_Lù": "8ad255f8-1085-54a4-bf2a-3f31c4fd976f.json",
-  "word:fr:arrive": "8aa90bdd-9da7-540d-a377-32839a8534f1.json",
-  "word:vi:a_giao": "8a06b7fa-195b-5785-80de-f01ee8882258.json",
   "word:vi:ách_yếu": "8aedeb94-9589-56b6-be03-100a4149d2d8.json",
-  "word:vi:bài_giải": "8a2da82e-89b4-5f53-ab5b-e47011db72d8.json",
-  "word:vi:ăn_bùn": "8a0799ab-b738-5294-bb00-50462a5ed4a5.json",
-  "word:vi:ăn_lên": "8a594ff6-62d3-59e6-8f42-6620f7d95f66.json",
+  "word:fr:arrive": "8aa90bdd-9da7-540d-a377-32839a8534f1.json",
+  "word:fr:18h": "8a34fb16-7823-5871-9b29-3485f81dd437.json",
   "word:vi:a-xít": "8aac8b2a-9792-53c5-a552-1b461df2fc2a.json",
-  "word:fr:il": "8a70ce7c-33bd-5793-bd15-60e4f6b12a8f.json"
+  "word:vi:a_giao": "8a06b7fa-195b-5785-80de-f01ee8882258.json",
+  "word:vi:ăn_bùn": "8a0799ab-b738-5294-bb00-50462a5ed4a5.json",
+  "word:fr:il": "8a70ce7c-33bd-5793-bd15-60e4f6b12a8f.json",
+  "word:vi:bài_giải": "8a2da82e-89b4-5f53-ab5b-e47011db72d8.json",
+  "word:vi:ăn_lên": "8a594ff6-62d3-59e6-8f42-6620f7d95f66.json"
 }

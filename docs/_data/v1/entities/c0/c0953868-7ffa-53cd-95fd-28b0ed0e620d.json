@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q83155",
+      "title": "WikiData Q-item: Q83155",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q83155"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Jacques-Louis David est un peintre et conventionnel français né le 30 août 1748 à Paris (Royaume de France) et mort le 29 décembre 1825 à Bruxelles (Royaume uni des Pays-Bas). Il est considéré comme le chef de file du mouvement néo-classique, dont il représente le style pictural. Il opère une rupture avec le style galant et libertin de la peinture rococo du XVIIIe siècle représentée à l'époque par François Boucher et Carle Van Loo, et revendique l’héritage du classicisme de Nicolas Poussin et des idéaux esthétiques grecs et romains, en cherchant, selon sa propre formule, à « régénérer les arts en développant une peinture que les classiques grecs et romains auraient sans hésiter pu prendre pour la leur ». Formé à l'Académie royale de peinture et de sculpture, il devient en 1784 un peintre renommé avec Le Serment des Horaces."
+    },
+    "descriptions": {
+      "en": "peintre français du mouvement néo-classique (1748-1825)"
+    },
+    "domain": "general",
+    "id": "Q83155",
+    "labels": {
+      "en": "Jacques-Louis David",
+      "fr": "Jacques-Louis David"
+    },
+    "properties": {
+      "birth_date": "1748-08-30T00:00:00Z",
+      "death_date": "1825-12-29T00:00:00Z",
+      "occupation": "dessinateur d'architecture",
+      "summary": "Jacques-Louis David est un peintre et conventionnel français né le 30 août 1748 à Paris (Royaume de France) et mort le 29 décembre 1825 à Bruxelles (Royaume uni des Pays-Bas). Il est considéré comme le chef de file du mouvement néo-classique, dont il représente le style pictural. Il opère une rupture avec le style galant et libertin de la peinture rococo du XVIIIe siècle représentée à l'époque par François Boucher et Carle Van Loo, et revendique l’héritage du classicisme de Nicolas Poussin et des idéaux esthétiques grecs et romains, en cherchant, selon sa propre formule, à « régénérer les arts en développant une peinture que les classiques grecs et romains auraient sans hésiter pu prendre pour la leur ». Formé à l'Académie royale de peinture et de sculpture, il devient en 1784 un peintre renommé avec Le Serment des Horaces."
+    },
+    "type": "person"
+  }
+}

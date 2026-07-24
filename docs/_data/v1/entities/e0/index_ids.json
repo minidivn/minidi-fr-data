@@ -1,11 +1,13 @@
 {
-  "word:vi:ái_nữ": "e0d6b4c2-5eb8-5866-8a5e-209d6c33f5d0.json",
-  "word:fr:vers": "e0d5f778-4f26-5e5f-8b20-a16ac69c7e1e.json",
-  "Q116949460": "e0221c3d-bb5d-5402-8c70-cd7e4548af1b.json",
-  "word:vi:báng": "e0b9b3e7-54db-51d1-b662-aad49baee487.json",
-  "word:vi:a_ngu": "e0a7e18e-393f-5f91-838b-c77745d6b91e.json",
-  "word:vi:An_Đạo": "e01f3b9d-6187-5602-bdcc-a1ee39182b38.json",
   "word:vi:bái": "e0136a69-7bf2-59ca-86ec-e2ff07c9cd71.json",
+  "word:fr:voulez": "e0a2471a-d0f8-5839-9216-cfd6855a943d.json",
+  "word:fr:acceptera": "e0f486f3-2d8d-58a7-8c7c-5a264b31365c.json",
+  "word:fr:abricots": "e00e6c29-b76d-5421-bd83-bd7212e18288.json",
+  "word:fr:vers": "e0d5f778-4f26-5e5f-8b20-a16ac69c7e1e.json",
+  "word:vi:An_Đạo": "e01f3b9d-6187-5602-bdcc-a1ee39182b38.json",
   "word:vi:acre": "e0594562-1400-52ac-9bf8-397156cf22b3.json",
-  "word:fr:voulez": "e0a2471a-d0f8-5839-9216-cfd6855a943d.json"
+  "word:vi:báng": "e0b9b3e7-54db-51d1-b662-aad49baee487.json",
+  "word:vi:ái_nữ": "e0d6b4c2-5eb8-5866-8a5e-209d6c33f5d0.json",
+  "Q116949460": "e0221c3d-bb5d-5402-8c70-cd7e4548af1b.json",
+  "word:vi:a_ngu": "e0a7e18e-393f-5f91-838b-c77745d6b91e.json"
 }

@@ -1,12 +1,13 @@
 {
-  "word:vi:ai_bảo": "0b57ba46-05e8-5805-b385-0a37f2314ad2.json",
   "word:vi:ăn_quẩn": "0b9a760f-f602-5a0a-8cc2-9be6fb615682.json",
   "word:vi:a-men": "0b8a0792-ee82-541e-a942-815a369fe66b.json",
-  "word:vi:ALGOL": "0b4330ed-969e-5ad7-876d-4db3d5904834.json",
-  "word:fr:qu'": "0b910808-2a92-50f5-83fa-e6742d69f5c8.json",
   "word:vi:bánh_tráng": "0b0919f4-2d58-5877-a37d-dac6306cfc55.json",
+  "word:vi:A_Ngo": "0b8bebf7-1d41-56ba-8b76-a6f19b47dc35.json",
   "word:vi:bá_tánh": "0b70ffc1-d152-5519-80bc-5f4e0849af1d.json",
-  "word:vi:âm_bội": "0bfc210d-5721-5644-9a65-883692726c19.json",
   "word:fr:veut": "0b5473bc-cc00-5bd2-8ed0-ab7b39a4a419.json",
-  "word:vi:A_Ngo": "0b8bebf7-1d41-56ba-8b76-a6f19b47dc35.json"
+  "word:vi:âm_bội": "0bfc210d-5721-5644-9a65-883692726c19.json",
+  "word:vi:ALGOL": "0b4330ed-969e-5ad7-876d-4db3d5904834.json",
+  "word:fr:abuser": "0bb9636e-e10c-59ba-acf0-6f5336e4a8e0.json",
+  "word:vi:ai_bảo": "0b57ba46-05e8-5805-b385-0a37f2314ad2.json",
+  "word:fr:qu'": "0b910808-2a92-50f5-83fa-e6742d69f5c8.json"
 }

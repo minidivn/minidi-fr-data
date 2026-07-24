@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q75563",
+      "title": "WikiData Q-item: Q75563",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q75563"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Marianne Loir, ou Marie-Anne Loir est une artiste peintre française, née le 10 décembre 1705 à Paris et morte dans la même ville le 11 mai 1783"
+    },
+    "descriptions": {
+      "en": "peintre française (1705-1783)"
+    },
+    "domain": "general",
+    "id": "Q75563",
+    "labels": {
+      "en": "Marianne Loir",
+      "fr": "Marianne Loir"
+    },
+    "properties": {
+      "birth_date": "1705-12-10T00:00:00Z",
+      "death_date": "1783-05-11T00:00:00Z",
+      "occupation": "artiste peintre",
+      "summary": "Marianne Loir, ou Marie-Anne Loir est une artiste peintre française, née le 10 décembre 1705 à Paris et morte dans la même ville le 11 mai 1783"
+    },
+    "type": "person"
+  }
+}

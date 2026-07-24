@@ -1,8 +1,12 @@
 {
-  "word:fr:minutes": "166c8a2a-ee92-588d-8728-a3e8bc451e70.json",
-  "word:vi:bản_lãnh": "16a28347-2fc3-5ad2-be0e-9eac24a42fe7.json",
-  "word:vi:am_thanh_cảnh_vắng": "16b0ecda-423f-5110-8d7c-100d2bfe5c27.json",
-  "word:vi:acid_nitric": "16b83936-90b7-5623-88a8-f20541e3c40e.json",
+  "word:fr:accepterez": "16f4ece6-454b-5c0c-9d2e-c2b2fb9968e4.json",
+  "word:fr:académique": "16f19182-b1ad-590c-a20f-e9a8e9312a6e.json",
+  "word:fr:acceptez-le": "1654d4ce-4f48-5653-adc6-39c17add0c8e.json",
+  "word:fr:est-il": "1603f813-6dc3-53e5-9fe6-7c4598e529b9.json",
+  "word:fr:5mn": "164ae744-17b3-5e40-bb10-8855ec3fad97.json",
   "word:fr:point": "16aff8ba-ee17-5176-a4c6-6c67413ead08.json",
-  "word:fr:est-il": "1603f813-6dc3-53e5-9fe6-7c4598e529b9.json"
+  "word:vi:acid_nitric": "16b83936-90b7-5623-88a8-f20541e3c40e.json",
+  "word:vi:am_thanh_cảnh_vắng": "16b0ecda-423f-5110-8d7c-100d2bfe5c27.json",
+  "word:fr:minutes": "166c8a2a-ee92-588d-8728-a3e8bc451e70.json",
+  "word:vi:bản_lãnh": "16a28347-2fc3-5ad2-be0e-9eac24a42fe7.json"
 }

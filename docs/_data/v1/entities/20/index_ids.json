@@ -1,9 +1,9 @@
 {
-  "word:fr:sens": "20ee0f2a-8da1-5454-bfc1-3ee1e4ff2a40.json",
-  "word:vi:ái_tình_học": "20f3702b-0947-559e-9c08-471879078367.json",
-  "word:vi:ăn_đứt": "209ec09f-c431-5aa2-a54d-7eb3f450d93e.json",
-  "word:vi:áo_cà_sa": "207d0dce-12c7-5e7b-9620-480d85cdd3ae.json",
-  "word:vi:âm_hồn": "20fdbce7-4931-5d83-97e2-1ed77cf4fb15.json",
   "word:fr:je": "20581167-84b7-5aca-b4be-3c983604ecaa.json",
-  "word:vi:ầm_ừ": "204c7aa6-bb0b-5f1a-a23b-ae8afeb888d5.json"
+  "word:vi:ăn_đứt": "209ec09f-c431-5aa2-a54d-7eb3f450d93e.json",
+  "word:vi:ầm_ừ": "204c7aa6-bb0b-5f1a-a23b-ae8afeb888d5.json",
+  "word:vi:áo_cà_sa": "207d0dce-12c7-5e7b-9620-480d85cdd3ae.json",
+  "word:fr:sens": "20ee0f2a-8da1-5454-bfc1-3ee1e4ff2a40.json",
+  "word:vi:âm_hồn": "20fdbce7-4931-5d83-97e2-1ed77cf4fb15.json",
+  "word:vi:ái_tình_học": "20f3702b-0947-559e-9c08-471879078367.json"
 }

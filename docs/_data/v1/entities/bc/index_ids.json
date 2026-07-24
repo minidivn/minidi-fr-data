@@ -1,13 +1,14 @@
 {
   "word:fr:vie": "bc7b601c-a26f-50cc-91a5-299e20f53eca.json",
-  "word:fr:arrêter": "bc19637a-ed03-5674-bac4-6dc69faa3326.json",
   "word:vi:ăn_lén": "bc72b7a7-8a02-58fb-9466-375f458f54a0.json",
-  "word:vi:a-mi": "bcbc7476-f140-5112-a589-9e6bc53b0998.json",
-  "Q3354679": "bc6ce70b-fce7-53cf-a9c4-96bd1ddec032.json",
-  "word:vi:ăn_chay": "bc676dce-04e4-5cba-b180-c112bb740822.json",
-  "word:fr:ii": "bc6a84e1-253b-5aac-9bff-cd8e108c688a.json",
   "word:vi:ẩm_ỉu": "bc91c5b0-cd92-5bff-bd7a-96cbf341a289.json",
   "word:vi:ấn_tín": "bc3b6a0e-3315-526e-a645-7bd7290b0a87.json",
+  "Q3354679": "bc6ce70b-fce7-53cf-a9c4-96bd1ddec032.json",
+  "word:fr:arrêter": "bc19637a-ed03-5674-bac4-6dc69faa3326.json",
   "Q36587": "bcbc2acd-5de1-542b-bcf8-e664c7e8c0f1.json",
-  "word:vi:bán_niên": "bc9025b2-87c6-5b0d-8fea-6128c7a0186e.json"
+  "word:vi:a-mi": "bcbc7476-f140-5112-a589-9e6bc53b0998.json",
+  "word:fr:abréger": "bcae1c92-7ed2-5729-96e8-7af6b21f04fd.json",
+  "word:vi:ăn_chay": "bc676dce-04e4-5cba-b180-c112bb740822.json",
+  "word:vi:bán_niên": "bc9025b2-87c6-5b0d-8fea-6128c7a0186e.json",
+  "word:fr:ii": "bc6a84e1-253b-5aac-9bff-cd8e108c688a.json"
 }

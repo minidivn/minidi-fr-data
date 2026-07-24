@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q470867",
+      "title": "WikiData Q-item: Q470867",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q470867"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "La culture campaniforme, ou simplement le Campaniforme (en anglais Bell-Beaker culture, en allemand Glockenbecherkultur), est une culture qui se développa en Europe ainsi qu'en Afrique du Nord approximativement au cours du IIIe millénaire av. J.-C., couvrant le Chalcolithique et une partie du Bronze ancien européen. Elle doit son nom aux gobelets céramiques en forme typique de cloche retrouvés dans les sépultures.\nL'origine et la diffusion de la culture campaniforme demeurent un phénomène fort complexe en raison de son développement dans l'espace et dans le temps. Néanmoins, les analyses génétiques faites au cours des années 2010 semblent montrer une origine unique de la culture campaniforme à l'est de l'Europe centrale dans une population issue des migrations de la culture Yamna. Cette culture se diffuse ensuite dans toute l'Europe centrale et occidentale par migration importante de populations."
+    },
+    "descriptions": {
+      "en": "culture proto-historique"
+    },
+    "domain": "general",
+    "id": "Q470867",
+    "labels": {
+      "en": "Culture campaniforme",
+      "fr": "Culture campaniforme"
+    },
+    "properties": {
+      "end_time": "-2200-01-01T00:00:00Z",
+      "start_time": "-2600-01-01T00:00:00Z",
+      "summary": "La culture campaniforme, ou simplement le Campaniforme (en anglais Bell-Beaker culture, en allemand Glockenbecherkultur), est une culture qui se développa en Europe ainsi qu'en Afrique du Nord approximativement au cours du IIIe millénaire av. J.-C., couvrant le Chalcolithique et une partie du Bronze ancien européen. Elle doit son nom aux gobelets céramiques en forme typique de cloche retrouvés dans les sépultures.\nL'origine et la diffusion de la culture campaniforme demeurent un phénomène fort complexe en raison de son développement dans l'espace et dans le temps. Néanmoins, les analyses génétiques faites au cours des années 2010 semblent montrer une origine unique de la culture campaniforme à l'est de l'Europe centrale dans une population issue des migrations de la culture Yamna. Cette culture se diffuse ensuite dans toute l'Europe centrale et occidentale par migration importante de populations."
+    },
+    "type": "event"
+  }
+}

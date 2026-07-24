@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q602",
+      "title": "WikiData Q-item: Q602",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q602"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "fleuve de Suisse et de France"
+    },
+    "descriptions": {
+      "en": "fleuve de Suisse et de France"
+    },
+    "domain": "general",
+    "id": "Q602",
+    "labels": {
+      "en": "Rhône"
+    },
+    "properties": {
+      "coordinates": "Point(4.8442 43.3342)"
+    },
+    "type": "place"
+  }
+}

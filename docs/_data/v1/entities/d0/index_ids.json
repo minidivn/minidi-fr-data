@@ -1,11 +1,14 @@
 {
+  "word:fr:abordage": "d0d0fb55-a1d3-57b2-b6bc-29008fabd32c.json",
+  "word:fr:abigail": "d001f382-24b9-5423-b0fe-7db557d49b78.json",
+  "word:fr:journée": "d0347886-8b44-5215-8ef2-973b0601ef0e.json",
   "word:fr:de": "d0a27131-b0b2-59b6-8a9a-e30621d041a1.json",
   "word:vi:ăn_đường": "d08506fb-6496-5993-8520-4c297cc5a042.json",
-  "word:vi:ả_giang_hồ": "d024dac7-1f97-5386-89cd-93e9f19b75f2.json",
   "word:vi:ba_chỉ": "d0f163cd-44b7-5662-935e-3275175b1587.json",
   "word:vi:ba_giăng": "d0c6da72-8d68-509c-bd33-e85dd82504c5.json",
-  "word:vi:ba_xuân": "d0df5104-a1c9-561c-a028-70591643ca8e.json",
-  "Q49319922": "d010c3ec-b1f6-549d-aead-22e8a4ead7f5.json",
   "word:vi:anh_thư": "d0f6ebae-c386-5ee5-b075-f7d57737bc58.json",
-  "word:fr:journée": "d0347886-8b44-5215-8ef2-973b0601ef0e.json"
+  "word:vi:ả_giang_hồ": "d024dac7-1f97-5386-89cd-93e9f19b75f2.json",
+  "word:vi:ba_xuân": "d0df5104-a1c9-561c-a028-70591643ca8e.json",
+  "word:fr:abandonnant": "d0d737c2-578e-54c3-a5f1-b4c6303f1e8c.json",
+  "Q49319922": "d010c3ec-b1f6-549d-aead-22e8a4ead7f5.json"
 }

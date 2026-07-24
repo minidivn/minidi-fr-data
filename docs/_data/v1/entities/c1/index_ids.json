@@ -1,15 +1,19 @@
 {
-  "word:vi:bang_giao": "c1ee91db-06b4-5dc1-b455-104410e2d811.json",
-  "Q31623599": "c15e97bc-ee16-5795-9a56-0ff9c1a5292f.json",
   "word:vi:anh_chị": "c110e1bb-692d-5953-9fe8-0891e2ca96b2.json",
-  "Q30599": "c1f8b003-182b-5f4b-9add-de63b5d89b94.json",
+  "word:vi:bang_giao": "c1ee91db-06b4-5dc1-b455-104410e2d811.json",
+  "word:vi:ăn_mày": "c1345d12-c084-521e-bdf4-622ca4f4152c.json",
+  "word:vi:ác_niệm": "c1be1868-d60f-5a57-9228-b6674109305d.json",
+  "word:fr:prendre": "c1136129-dd37-5397-acbd-d21cbc4b9041.json",
+  "Q31623599": "c15e97bc-ee16-5795-9a56-0ff9c1a5292f.json",
+  "word:fr:ait": "c1455390-c8e5-584b-a48d-278fe6269240.json",
+  "word:fr:7h": "c11088c9-b3c2-5d30-b82b-6c0da2c1a942.json",
   "word:vi:bác_học": "c1c3f956-bb37-5b07-99eb-74e46ff9fa38.json",
   "Q10752106": "c12badc4-b814-5459-adc5-87641c0aa61d.json",
-  "word:vi:ăn_mày": "c1345d12-c084-521e-bdf4-622ca4f4152c.json",
-  "word:fr:ait": "c1455390-c8e5-584b-a48d-278fe6269240.json",
-  "word:vi:bái_phục": "c1b3bc59-097a-51e6-97c3-5d0aa0ef7533.json",
+  "Q30599": "c1f8b003-182b-5f4b-9add-de63b5d89b94.json",
   "word:vi:ba_đầu_sáu_tay": "c113e6e2-7d35-59e9-89b7-74c2e52e4555.json",
-  "word:vi:ác_niệm": "c1be1868-d60f-5a57-9228-b6674109305d.json",
+  "word:fr:4x4": "c1b1ba04-9eca-57ba-80e2-338d5216f7de.json",
+  "word:vi:bái_phục": "c1b3bc59-097a-51e6-97c3-5d0aa0ef7533.json",
   "word:vi:alumin": "c1fbf7be-9c4a-5b76-a7dc-6192b7b842d0.json",
-  "word:fr:prendre": "c1136129-dd37-5397-acbd-d21cbc4b9041.json"
+  "word:fr:abattez": "c1f90d26-33c3-5736-9ec3-1e18abac6963.json",
+  "word:fr:abondent": "c1cc331f-426d-592a-95ea-9ee50285a3af.json"
 }

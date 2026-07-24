@@ -1,15 +1,17 @@
 {
-  "word:vi:acmonica": "b8f1b4e4-3e04-5250-97bd-21f22c209feb.json",
-  "word:vi:á_hoang_mạc": "b801fd50-7e7f-591f-9075-b007a4f5d0ec.json",
   "word:vi:bạc_màu": "b8911a85-893d-5ec3-8bae-e84ec4fa5914.json",
   "word:fr:monsieur": "b818422c-0ba0-56ad-907f-3ac7bdeece73.json",
-  "word:fr:du": "b886ab20-2e4a-5a39-b10c-f9d51d3ddc55.json",
-  "word:vi:áo_choàng": "b8c11636-57fd-5a6e-9c0e-3045a65f3839.json",
-  "word:vi:ất": "b8a81707-170a-5b5b-b275-7ce0e3386c68.json",
-  "word:fr:voulais": "b8766b27-dd5e-563a-b0e2-047dbeff20bd.json",
-  "word:vi:ái_Quốc": "b84d26f3-2b5f-5224-8071-c7630251342b.json",
+  "word:vi:á_hoang_mạc": "b801fd50-7e7f-591f-9075-b007a4f5d0ec.json",
   "Q124790626": "b830a8e2-b437-57cd-b7b7-8ed390d18e20.json",
-  "word:fr:possible": "b89f1f77-d8e6-528e-9d87-c75a2ee69faa.json",
+  "word:fr:voulais": "b8766b27-dd5e-563a-b0e2-047dbeff20bd.json",
   "word:vi:ăn_lá": "b8f60f33-df99-55c9-859b-efeb19f95140.json",
-  "word:vi:ẩm_chồi": "b80fce47-dbbd-5a38-bf77-b3d530f53a45.json"
+  "word:fr:possible": "b89f1f77-d8e6-528e-9d87-c75a2ee69faa.json",
+  "word:fr:abandonnons": "b8f6a091-085e-5cf5-869a-855c444938a4.json",
+  "word:vi:ất": "b8a81707-170a-5b5b-b275-7ce0e3386c68.json",
+  "word:vi:áo_choàng": "b8c11636-57fd-5a6e-9c0e-3045a65f3839.json",
+  "word:fr:abri": "b8894a8b-3f06-54b8-80b9-6804d03bdef4.json",
+  "word:vi:ái_Quốc": "b84d26f3-2b5f-5224-8071-c7630251342b.json",
+  "word:vi:acmonica": "b8f1b4e4-3e04-5250-97bd-21f22c209feb.json",
+  "word:vi:ẩm_chồi": "b80fce47-dbbd-5a38-bf77-b3d530f53a45.json",
+  "word:fr:du": "b886ab20-2e4a-5a39-b10c-f9d51d3ddc55.json"
 }

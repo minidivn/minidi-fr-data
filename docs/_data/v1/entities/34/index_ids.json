@@ -1,8 +1,10 @@
 {
-  "word:vi:ăn_tiêu": "34ddfa64-a8f6-5475-8fd6-6de2d1a7e7ef.json",
   "word:vi:An_Đức": "34f42d69-74e3-5b17-a18a-056a0a152046.json",
-  "word:vi:ăn_giỗ": "3445d289-d838-5e2f-87ac-4566655f0859.json",
+  "word:fr:aboiements": "3441f80d-8341-5965-8005-57adb3e52af0.json",
+  "Q49054330": "34a4746d-68bb-57a3-9dbf-fd1ba608e8d1.json",
+  "word:fr:abritez-vous": "349fdc67-8dff-5b26-9063-4fbb2bb1ec28.json",
   "word:vi:bài_làm": "34e95f04-1c55-5088-a6fc-75ec5caddbbc.json",
-  "word:vi:bài_mục": "3454e5b0-d01c-5239-ab88-621356b715dd.json",
-  "Q49054330": "34a4746d-68bb-57a3-9dbf-fd1ba608e8d1.json"
+  "word:vi:ăn_giỗ": "3445d289-d838-5e2f-87ac-4566655f0859.json",
+  "word:vi:ăn_tiêu": "34ddfa64-a8f6-5475-8fd6-6de2d1a7e7ef.json",
+  "word:vi:bài_mục": "3454e5b0-d01c-5239-ab88-621356b715dd.json"
 }

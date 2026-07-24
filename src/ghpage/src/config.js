@@ -1,166 +1,178 @@
 export default {
-  countryCode: "vn",
-  countryName: "Vietnam",
-  countryEmoji: "\u{1F1FB}\u{1F1F3}", // 🇻🇳
-
-  languages: ["en", "vi"],
-  defaultLanguage: "en",
-
-  title: "Vietnam Knowledge Graph",
-  subtitle: "Exploring {n} WikiData entities: history, geography, people & culture",
-
-  splashTitle: "\u{1F1FB}\u{1F1F3} MiniDi",
-  splashMessage: "Loading Vietnam knowledge graph...",
-
-  slides: [
-    {
-      label: "Hạ Long Bay", lang: "en",
-      labelAlt: "Vịnh Hạ Long", langAlt: "vi",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Halong_Bay_in_2019.jpg/1280px-Halong_Bay_in_2019.jpg",
-      grad: "linear-gradient(135deg, #0f766e, #0d9488, #2dd4bf)",
-    },
-    {
-      label: "Hoàng Sa Archipelago", lang: "en",
-      labelAlt: "Quần đảo Hoàng Sa", langAlt: "vi",
-      img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
-      grad: "linear-gradient(135deg, #1e3a5f, #2563eb, #60a5fa)",
-    },
-    {
-      label: "Hội An Ancient Town", lang: "en",
-      labelAlt: "Phố cổ Hội An", langAlt: "vi",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hoi_An_Ancient_Town_at_dusk.jpg/1280px-Hoi_An_Ancient_Town_at_dusk.jpg",
-      grad: "linear-gradient(135deg, #7c2d12, #dc2626, #fbbf24)",
-    },
-    {
-      label: "Mekong Delta", lang: "en",
-      labelAlt: "Đồng bằng sông Cửu Long", langAlt: "vi",
-      img: "https://images.unsplash.com/photo-1598970605070-a38a6ccd1a2d?w=1200&q=80",
-      grad: "linear-gradient(135deg, #14532d, #16a34a, #86efac)",
-    },
-    {
-      label: "Huế Imperial City", lang: "en",
-      labelAlt: "Cố đô Huế", langAlt: "vi",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hue_Citadel.jpg/1280px-Hue_Citadel.jpg",
-      grad: "linear-gradient(135deg, #4a1d96, #8b5cf6, #c084fc)",
-    },
-    {
-      label: "Sa Pa Terraces", lang: "en",
-      labelAlt: "Ruộng bậc thang Sa Pa", langAlt: "vi",
-      img: "https://images.unsplash.com/photo-1528127269322-539801943592?w=1200&q=80",
-      grad: "linear-gradient(135deg, #3b82f6, #1d4ed8, #93c5fd)",
-    },
+  "countryCode": "fr",
+  "countryName": "France",
+  "countryEmoji": "🇫🇷",
+  "languages": [
+    "en",
+    "fr"
   ],
-
-  mapCenter: [16, 107.5],
-  mapZoom: 6,
-
-  eras: [
-    {
-      id: "hong_bang",
-      emoji: "\u{1F3DB}",
-      label: { en: "Hồng Bàng Dynasty", vi: "Thời kỳ Hồng Bàng" },
-      years: [-2879, -258],
-      color: "#8b5cf6",
-    },
-    {
-      id: "chinese_domination",
-      emoji: "\u{1F30F}",
-      label: { en: "Chinese Domination", vi: "Bắc thuộc" },
-      years: [-111, 939],
-      color: "#ef4444",
-    },
-    {
-      id: "dynastic_vn",
-      emoji: "\u{1F451}",
-      label: { en: "Dynastic Vietnam", vi: "Việt Nam thời quân chủ" },
-      years: [939, 1858],
-      color: "#f59e0b",
-    },
-    {
-      id: "colonial",
-      emoji: "\u{2696}",
-      label: { en: "French Colonial Period", vi: "Pháp thuộc" },
-      years: [1858, 1954],
-      color: "#3b82f6",
-    },
-    {
-      id: "vietnam_war",
-      emoji: "\u{1F4A5}",
-      label: { en: "Vietnam War / American War", vi: "Chiến tranh Việt Nam" },
-      years: [1955, 1975],
-      color: "#dc2626",
-    },
-    {
-      id: "modern",
-      emoji: "\u{1F4F7}",
-      label: { en: "Modern Vietnam", vi: "Việt Nam hiện đại" },
-      years: [1975, 9999],
-      color: "#22c55e",
-    },
+  "defaultLanguage": "fr",
+  "title": "France Knowledge Graph",
+  "subtitle": "Exploring 2,604 WikiData entities: history, geography, people & culture",
+  "splashTitle": "🇫🇷 MiniDi",
+  "splashMessage": "Loading France knowledge graph...",
+  "mapCenter": [
+    46.2276,
+    2.2137
   ],
-
-  githubRepo: "minidivn/minidi-vn-data",
-  dataSource: "WikiData",
-
-  dataPath: "_data/index.json",
-
-  chatCountry: "Vietnam",
-  chatGreeting: "Ask me about Vietnam — history, people, places, events.",
-
-  translations: {
-    en: {
-      entities: "Entities",
-      events: "Events",
-      people: "People",
-      places: "Places",
-      all: "All",
-      search: "Search...",
-      noResults: "No matching entities",
-      loading: "Loading...",
-      results: "{n} results",
-      page: "Page {p} of {t}",
-      prev: "Prev",
-      next: "Next",
-      details: "Details",
-      relations: "Relations",
-      wiki: "Open in WikiData",
-      timeline: "Timeline",
-      tree: "Dynasty Tree",
-      builtWith: "Built with",
-      source: "source",
-      chatTitle: "MiniDi Assistant",
-      chatPlaceholder: "Ask about Vietnam...",
-      entitiesTotal: "{n} entities",
-      mapPlaces: "Places",
-      mapPeople: "People",
-      mapEvents: "Events",
+  "mapZoom": 6,
+  "githubRepo": "minidivn/minidi-fr-data",
+  "dataSource": "WikiData",
+  "dataPath": "_data/index.json",
+  "chatCountry": "France",
+  "chatGreeting": "Posez-moi des questions sur la France — histoire, personnages, lieux, événements.",
+  "slides": [
+    {
+      "label": "Eiffel Tower",
+      "lang": "en",
+      "labelAlt": "Tour Eiffel",
+      "langAlt": "fr",
+      "img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=80",
+      "grad": "linear-gradient(135deg, #0f766e, #0d9488, #2dd4bf)"
     },
-    vi: {
-      entities: "Thực thể",
-      events: "Sự kiện",
-      people: "Nhân vật",
-      places: "Địa danh",
-      all: "Tất cả",
-      search: "Tìm kiếm...",
-      noResults: "Không tìm thấy",
-      loading: "Đang tải...",
-      results: "{n} kết quả",
-      page: "Trang {p} / {t}",
-      prev: "Trước",
-      next: "Sau",
-      details: "Chi tiết",
-      relations: "Quan hệ",
-      wiki: "Mở trong WikiData",
-      timeline: "Thời gian",
-      tree: "Đồng hồ",
-      builtWith: "Xây dựng với",
-      source: "Mã nguồn",
-      chatTitle: "Trợ lý MiniDi",
-      chatPlaceholder: "Hỏi về Việt Nam...",
-      entitiesTotal: "{n} thực thể",
-      mapPlaces: "Địa danh",
-      mapPeople: "Nhân vật",
-      mapEvents: "Sự kiện",
+    {
+      "label": "Mont Saint-Michel",
+      "lang": "en",
+      "labelAlt": "Mont Saint-Michel",
+      "langAlt": "fr",
+      "img": "https://images.unsplash.com/photo-1563784462386-044fd95e9852?w=1200&q=80",
+      "grad": "linear-gradient(135deg, #1e3a5f, #2563eb, #60a5fa)"
+    }
+  ],
+  "eras": [
+    {
+      "id": "roman_gaul",
+      "emoji": "🏛️",
+      "label": {
+        "en": "Roman Gaul",
+        "fr": "Gaule romaine"
+      },
+      "years": [
+        -52,
+        486
+      ],
+      "color": "#8b5cf6"
     },
-  },
+    {
+      "id": "middle_ages",
+      "emoji": "👑",
+      "label": {
+        "en": "Middle Ages",
+        "fr": "Moyen Âge"
+      },
+      "years": [
+        486,
+        1492
+      ],
+      "color": "#f59e0b"
+    },
+    {
+      "id": "ancien_regime",
+      "emoji": "🏰",
+      "label": {
+        "en": "Ancien Régime",
+        "fr": "Ancien Régime"
+      },
+      "years": [
+        1492,
+        1789
+      ],
+      "color": "#3b82f6"
+    },
+    {
+      "id": "revolution",
+      "emoji": "⚖️",
+      "label": {
+        "en": "Revolution & Empire",
+        "fr": "Révolution & Empire"
+      },
+      "years": [
+        1789,
+        1815
+      ],
+      "color": "#ef4444"
+    },
+    {
+      "id": "nineteenth_century",
+      "emoji": "🏭",
+      "label": {
+        "en": "19th Century",
+        "fr": "XIXe siècle"
+      },
+      "years": [
+        1815,
+        1914
+      ],
+      "color": "#c084fc"
+    },
+    {
+      "id": "modern",
+      "emoji": "📷",
+      "label": {
+        "en": "Modern France",
+        "fr": "France moderne"
+      },
+      "years": [
+        1914,
+        9999
+      ],
+      "color": "#22c55e"
+    }
+  ],
+  "translations": {
+    "en": {
+      "entities": "Entities",
+      "events": "Events",
+      "people": "People",
+      "places": "Places",
+      "all": "All",
+      "search": "Search...",
+      "noResults": "No matching entities",
+      "loading": "Loading...",
+      "results": "{n} results",
+      "page": "Page {p} of {t}",
+      "prev": "Prev",
+      "next": "Next",
+      "details": "Details",
+      "relations": "Relations",
+      "wiki": "Open in WikiData",
+      "timeline": "Timeline",
+      "tree": "Dynasty Tree",
+      "builtWith": "Built with",
+      "source": "source",
+      "chatTitle": "MiniDi Assistant",
+      "chatPlaceholder": "Ask about France...",
+      "entitiesTotal": "{n} entities",
+      "mapPlaces": "Places",
+      "mapPeople": "People",
+      "mapEvents": "Events"
+    },
+    "fr": {
+      "entities": "Entités",
+      "events": "Événements",
+      "people": "Personnalités",
+      "places": "Lieux",
+      "all": "Tout",
+      "search": "Rechercher...",
+      "noResults": "Aucun résultat trouvé",
+      "loading": "Chargement...",
+      "results": "{n} résultats",
+      "page": "Page {p} sur {t}",
+      "prev": "Précédent",
+      "next": "Suivant",
+      "details": "Détails",
+      "relations": "Relations",
+      "wiki": "Ouvrir dans WikiData",
+      "timeline": "Chronologie",
+      "tree": "Généalogie",
+      "builtWith": "Construit avec",
+      "source": "Code source",
+      "chatTitle": "Assistant MiniDi",
+      "chatPlaceholder": "Poser une question sur la France...",
+      "entitiesTotal": "{n} entités",
+      "mapPlaces": "Lieux",
+      "mapPeople": "Personnalités",
+      "mapEvents": "Événements"
+    }
+  }
 };

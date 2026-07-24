@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q18832",
+      "title": "WikiData Q-item: Q18832",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q18832"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Sławomir Mrożek (né le 29 juin 1930 à Borzęcin, près de Cracovie en Petite-Pologne, et mort le 15 août 2013 à Nice en France) est un dessinateur satirique, écrivain et dramaturge polonais. Son œuvre dramatique est souvent associée au « théâtre de l'absurde »."
+    },
+    "descriptions": {
+      "en": "écrivain polonais (1930-2013)"
+    },
+    "domain": "general",
+    "id": "Q18832",
+    "labels": {
+      "en": "Sławomir Mrożek",
+      "fr": "Sławomir Mrożek"
+    },
+    "properties": {
+      "birth_date": "1930-06-29T00:00:00Z",
+      "death_date": "2013-08-15T00:00:00Z",
+      "occupation": "écrivain ou écrivaine de science-fiction",
+      "summary": "Sławomir Mrożek (né le 29 juin 1930 à Borzęcin, près de Cracovie en Petite-Pologne, et mort le 15 août 2013 à Nice en France) est un dessinateur satirique, écrivain et dramaturge polonais. Son œuvre dramatique est souvent associée au « théâtre de l'absurde »."
+    },
+    "type": "person"
+  }
+}

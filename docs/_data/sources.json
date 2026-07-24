@@ -24,13 +24,13 @@
       "P276 (location)"
     ],
     "metadata_fields": {
-      "birth_date": "ISO birth date",
-      "point_in_time": "ISO date of event",
+      "start_time": "ISO start date",
       "death_date": "ISO death date",
-      "occupation": "Occupation label",
       "end_time": "ISO end date",
+      "birth_date": "ISO birth date",
+      "occupation": "Occupation label",
       "coordinates": "Geo: latitude/longitude",
-      "start_time": "ISO start date"
+      "point_in_time": "ISO date of event"
     },
     "attribution": "CC0 — WikiData contributors"
   },
@@ -48,9 +48,9 @@
       "category_member"
     ],
     "metadata_fields": {
+      "page_id": "Numeric Wikipedia page ID",
       "url": "Full article URL",
-      "summary": "First paragraph of article",
-      "page_id": "Numeric Wikipedia page ID"
+      "summary": "First paragraph of article"
     },
     "attribution": "CC-BY-SA — Wikipedia contributors"
   },
@@ -72,8 +72,8 @@
       "adjacent_to"
     ],
     "metadata_fields": {
-      "lon": "Longitude",
       "lat": "Latitude",
+      "lon": "Longitude",
       "tags": "OSM key-value tags"
     },
     "attribution": "ODbL — OpenStreetMap contributors"
@@ -92,9 +92,9 @@
       "translates_to"
     ],
     "metadata_fields": {
+      "translations": "Bilingual translation list",
       "source_list": "Source wordlist filename",
-      "pos": "Part of speech tag",
-      "translations": "Bilingual translation list"
+      "pos": "Part of speech tag"
     },
     "attribution": "Local dictionary assets"
   }

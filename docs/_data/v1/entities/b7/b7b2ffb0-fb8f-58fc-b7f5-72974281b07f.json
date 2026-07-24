@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q88358",
+      "title": "WikiData Q-item: Q88358",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q88358"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Roxane Duran [duːˈran] est une actrice franco-autrichienne née le 27 janvier 1993 à Paris.\nElle obtient son premier rôle dans Le Ruban blanc de Michael Haneke, Palme d'or au Festival de Cannes 2009. Roxane Duran joue en français, anglais et allemand, ce qui lui permet de décrocher des rôles tels que celui de la Princesse Marguerite dans Michael Kohlhaas d'Arnaud des Pallières, Madeleine dans Interview with the Vampire la série d'horreur américaine sur AMC et Adriana Clios dans deux saisons de Riviera créée par Neil Jordan pour Sky Atlantic.\nElle fait ses débuts au théâtre en 2012 en incarnant Anne Frank dans l'adaptation du Le Journal d'Anne Frank écrit par Éric-Emmanuel Schmitt."
+    },
+    "descriptions": {
+      "en": "actrice française"
+    },
+    "domain": "general",
+    "id": "Q88358",
+    "labels": {
+      "en": "Roxane Duran",
+      "fr": "Roxane Duran"
+    },
+    "properties": {
+      "birth_date": "1993-01-27T00:00:00Z",
+      "occupation": "acteur ou actrice",
+      "summary": "Roxane Duran [duːˈran] est une actrice franco-autrichienne née le 27 janvier 1993 à Paris.\nElle obtient son premier rôle dans Le Ruban blanc de Michael Haneke, Palme d'or au Festival de Cannes 2009. Roxane Duran joue en français, anglais et allemand, ce qui lui permet de décrocher des rôles tels que celui de la Princesse Marguerite dans Michael Kohlhaas d'Arnaud des Pallières, Madeleine dans Interview with the Vampire la série d'horreur américaine sur AMC et Adriana Clios dans deux saisons de Riviera créée par Neil Jordan pour Sky Atlantic.\nElle fait ses débuts au théâtre en 2012 en incarnant Anne Frank dans l'adaptation du Le Journal d'Anne Frank écrit par Éric-Emmanuel Schmitt."
+    },
+    "type": "person"
+  }
+}

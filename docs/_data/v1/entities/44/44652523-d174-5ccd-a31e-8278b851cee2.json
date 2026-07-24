@@ -1,0 +1,39 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T16:29:21.712117200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T16:29:21.712117200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Từ vựng trong danh sách words.txt"
+    },
+    "descriptions": {
+      "en": "Vocabulary entry in words.txt",
+      "fr": "Từ vựng trong danh sách words.txt"
+    },
+    "domain": "general",
+    "id": "word:fr:a-t'",
+    "labels": {
+      "en": "a-t'",
+      "fr": "a-t'"
+    },
+    "properties": {
+      "source_list": "words.txt",
+      "word_string": "a-t'"
+    },
+    "type": "other"
+  }
+}

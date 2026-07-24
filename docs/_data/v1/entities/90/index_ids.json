@@ -1,12 +1,14 @@
 {
-  "word:vi:ác_phụ": "90143792-8233-54b3-b772-1cdb8bb61964.json",
-  "word:fr:chérie": "90aa0a2c-6f91-5848-a411-49c0cad3258f.json",
-  "Q56670517": "901bda57-0e4d-5bf9-a59d-3be8b901aa08.json",
-  "word:vi:ăn_kiêng": "902757d7-4680-5005-8e30-787426a80030.json",
-  "word:vi:âm_dương_lịch": "905786c0-0687-5c8f-a85b-d55ee661dc86.json",
-  "word:vi:âm_đạo": "9099bb4a-e579-5b99-9414-14bb497b9d27.json",
+  "word:fr:aboule": "902783d2-c03a-5abf-9709-69d079fac3bf.json",
   "word:fr:frère": "90e2f2a9-3c9b-5f3d-a1cd-08012924fa55.json",
-  "word:vi:a_ha": "90fe1a38-b37b-5f54-a426-47023f041277.json",
   "word:fr:prie": "90df1640-e630-54a3-99d8-5ce21a0e5993.json",
-  "word:vi:ái_lực": "90886834-f6fd-5ffa-a86b-6c628e50b5ec.json"
+  "word:fr:abrite": "90b38d23-50db-5667-b19f-adaebd6cade2.json",
+  "word:vi:a_ha": "90fe1a38-b37b-5f54-a426-47023f041277.json",
+  "word:vi:âm_đạo": "9099bb4a-e579-5b99-9414-14bb497b9d27.json",
+  "word:fr:chérie": "90aa0a2c-6f91-5848-a411-49c0cad3258f.json",
+  "word:vi:âm_dương_lịch": "905786c0-0687-5c8f-a85b-d55ee661dc86.json",
+  "word:vi:ăn_kiêng": "902757d7-4680-5005-8e30-787426a80030.json",
+  "word:vi:ác_phụ": "90143792-8233-54b3-b772-1cdb8bb61964.json",
+  "word:vi:ái_lực": "90886834-f6fd-5ffa-a86b-6c628e50b5ec.json",
+  "Q56670517": "901bda57-0e4d-5bf9-a59d-3be8b901aa08.json"
 }
