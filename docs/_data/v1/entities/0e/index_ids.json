@@ -1,10 +1,10 @@
 {
-  "word:fr:abercrombie": "0e3caf89-b3eb-5c23-ade7-7fc2d4ad8509.json",
-  "word:vi:ba_lơn": "0e89d297-e248-5bab-8a13-f325be4db839.json",
   "word:vi:ám_quẻ": "0ebf84cb-be86-5b81-bf58-b6a8d7672ce6.json",
-  "word:vi:âm_hưởng": "0e25581c-4ede-5fbd-b5a2-bffa193ea58d.json",
-  "word:fr:'le": "0e72fc00-6d5d-5ddc-b0cf-5c7714e940ac.json",
-  "word:fr:abandonnes": "0ea24614-9291-50ed-bc11-a2c9133bb7f7.json",
+  "word:fr:abercrombie": "0e3caf89-b3eb-5c23-ade7-7fc2d4ad8509.json",
   "word:vi:ban_hành": "0e022a25-5873-557b-8a8f-675f58382c74.json",
-  "Q32197363": "0eb49066-545d-56f4-bcb4-9d1a0bab9150.json"
+  "Q32197363": "0eb49066-545d-56f4-bcb4-9d1a0bab9150.json",
+  "word:vi:âm_hưởng": "0e25581c-4ede-5fbd-b5a2-bffa193ea58d.json",
+  "word:fr:abandonnes": "0ea24614-9291-50ed-bc11-a2c9133bb7f7.json",
+  "word:vi:ba_lơn": "0e89d297-e248-5bab-8a13-f325be4db839.json",
+  "word:fr:'le": "0e72fc00-6d5d-5ddc-b0cf-5c7714e940ac.json"
 }

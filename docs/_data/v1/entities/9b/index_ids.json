@@ -1,15 +1,15 @@
 {
+  "word:fr:chose": "9b384f93-1376-5b36-a50e-a2c346e3b61c.json",
+  "Q5207299": "9bbbd4fb-52be-54c3-9bfa-8abdf7db2da5.json",
+  "word:vi:a-vô-ca": "9b86fd74-2757-5827-92e4-9e6793e42f31.json",
   "word:fr:15h30": "9bba742f-fe75-5f5a-8780-5cd91e83773a.json",
   "Q4872569": "9beb83a8-86c9-516c-af54-06e637f08051.json",
-  "Q48727214": "9b27d1de-dfb5-59b5-9cf6-6cd959e7bdc5.json",
-  "word:fr:chose": "9b384f93-1376-5b36-a50e-a2c346e3b61c.json",
-  "word:vi:a-vô-ca": "9b86fd74-2757-5827-92e4-9e6793e42f31.json",
-  "Q32197127": "9bdd8b66-d6c6-5531-b33f-87fc3c74015a.json",
-  "word:fr:peut": "9b72dc22-27e3-5215-be4f-db371e16a521.json",
   "word:fr:années": "9b13e0e5-a7b5-5d90-a418-89db9e5c7a37.json",
-  "Q5207299": "9bbbd4fb-52be-54c3-9bfa-8abdf7db2da5.json",
-  "word:vi:á_châu": "9b1c91e2-ab13-5719-95e4-78bab2355f3d.json",
+  "Q32197127": "9bdd8b66-d6c6-5531-b33f-87fc3c74015a.json",
   "word:fr:abrégé": "9b60ecff-96d2-59af-8fcc-e647b73c4fa8.json",
   "Q1319960": "9bcbdf9d-61ef-5368-81c2-fcdc057b9ebd.json",
-  "word:fr:a.a.": "9bd86d59-44b7-55cc-bf3a-ca1b08826c5e.json"
+  "word:vi:á_châu": "9b1c91e2-ab13-5719-95e4-78bab2355f3d.json",
+  "word:fr:peut": "9b72dc22-27e3-5215-be4f-db371e16a521.json",
+  "word:fr:a.a.": "9bd86d59-44b7-55cc-bf3a-ca1b08826c5e.json",
+  "Q48727214": "9b27d1de-dfb5-59b5-9cf6-6cd959e7bdc5.json"
 }

@@ -1,17 +1,17 @@
 {
-  "word:vi:ác_nghiệp": "2c49de2b-7974-5d0b-9c80-7f7a7ad391fc.json",
-  "word:fr:es": "2c9ffdaa-4545-5412-8939-be4301a925f9.json",
-  "word:vi:bạc_nhạc": "2c4caea2-e9a8-5706-a485-c53866490d87.json",
-  "word:fr:super": "2c891eac-5617-55f7-a05d-26a0624db1d9.json",
-  "word:vi:An_Bình_Tây": "2cdda0db-36fe-589c-acbc-45cf17ad6517.json",
   "word:fr:étais": "2c34dec3-860d-5fb6-b01c-570e11d48955.json",
-  "word:vi:ai_tư_vãn": "2c85787b-584d-5cec-80c3-b11474a48285.json",
-  "word:vi:áp_tải": "2c4a9226-04f9-59ab-9fd6-070a6ccf2b1d.json",
-  "word:vi:áp_kí": "2c02bc95-7df0-51b9-85fa-036b2b61dcd9.json",
-  "word:vi:bài_hát": "2c75e71e-baab-5169-afcd-614dc3d251e1.json",
-  "word:vi:ậc": "2cd2d5ea-9f2e-5d37-870d-93bdadde273c.json",
   "word:vi:ải": "2c1bd390-6d58-5392-8c10-ade93bc97a0f.json",
   "word:vi:âm_giải": "2cb52ec8-428c-59cf-8a96-fbcbc0972df5.json",
+  "word:vi:ậc": "2cd2d5ea-9f2e-5d37-870d-93bdadde273c.json",
+  "word:vi:áp_kí": "2c02bc95-7df0-51b9-85fa-036b2b61dcd9.json",
+  "word:vi:áp_tải": "2c4a9226-04f9-59ab-9fd6-070a6ccf2b1d.json",
+  "word:vi:ai_tư_vãn": "2c85787b-584d-5cec-80c3-b11474a48285.json",
+  "word:vi:bài_hát": "2c75e71e-baab-5169-afcd-614dc3d251e1.json",
+  "word:fr:es": "2c9ffdaa-4545-5412-8939-be4301a925f9.json",
+  "word:vi:An_Bình_Tây": "2cdda0db-36fe-589c-acbc-45cf17ad6517.json",
+  "word:fr:super": "2c891eac-5617-55f7-a05d-26a0624db1d9.json",
   "word:fr:abusif": "2c222664-3b42-5d8c-9c9d-8d8e4001200b.json",
-  "word:fr:c'": "2cdc2f50-fa94-5f53-9668-5d0a120c53b6.json"
+  "word:vi:bạc_nhạc": "2c4caea2-e9a8-5706-a485-c53866490d87.json",
+  "word:fr:c'": "2cdc2f50-fa94-5f53-9668-5d0a120c53b6.json",
+  "word:vi:ác_nghiệp": "2c49de2b-7974-5d0b-9c80-7f7a7ad391fc.json"
 }

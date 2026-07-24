@@ -1,11 +1,11 @@
 {
-  "word:vi:bài_học": "efbd6820-e0c5-5cd4-b261-b4f47943aafc.json",
-  "word:vi:bạch_đinh": "efdfd65e-366f-5343-9493-c5984a12e2e5.json",
-  "word:vi:bán_nam_bán_nữ": "ef4a33b9-99ab-5196-8a21-04dfe2fc19eb.json",
-  "word:vi:ban_phát": "efae7348-8af3-5bf9-8811-9cbae987c23d.json",
-  "word:vi:ắng_họng": "efb3c527-6d18-546e-8c02-c9bf40adc977.json",
   "word:fr:n'": "ef3fbb12-3c68-51f6-b2de-82be4a943167.json",
   "word:fr:abattra": "ef8f241b-f64b-5119-b72c-9c303c0cf4f0.json",
   "Q16629698": "ef4fabb4-0c9f-56d4-a1df-f40f47713ae9.json",
-  "word:fr:acces": "efbaa8c9-2799-520f-b2a4-084f917e8eb6.json"
+  "word:vi:ắng_họng": "efb3c527-6d18-546e-8c02-c9bf40adc977.json",
+  "word:vi:bán_nam_bán_nữ": "ef4a33b9-99ab-5196-8a21-04dfe2fc19eb.json",
+  "word:fr:acces": "efbaa8c9-2799-520f-b2a4-084f917e8eb6.json",
+  "word:vi:ban_phát": "efae7348-8af3-5bf9-8811-9cbae987c23d.json",
+  "word:vi:bạch_đinh": "efdfd65e-366f-5343-9493-c5984a12e2e5.json",
+  "word:vi:bài_học": "efbd6820-e0c5-5cd4-b261-b4f47943aafc.json"
 }

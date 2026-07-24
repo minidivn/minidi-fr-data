@@ -1,17 +1,17 @@
 {
-  "word:vi:An_Hội": "00c1ae92-ad24-51b6-b12f-6da0c9eec3ba.json",
-  "word:fr:tiens": "00278f90-fa48-59cd-b86c-291c7fdd9e3e.json",
-  "word:vi:âu_sầu": "007da553-8d90-5a40-b9c5-497e6f1eacf0.json",
   "word:fr:aberration": "00326dcd-0856-574a-9d64-344175f09a11.json",
-  "word:vi:bản_vị": "00ef95d4-b9ce-59d0-874d-20e0c5dae942.json",
   "word:vi:ân_ái": "001e47fb-2ff9-556f-b56e-acc09d1e7d41.json",
   "word:vi:bái_biệt": "003bceea-f193-5d66-a668-5d49b95892e0.json",
+  "word:vi:án_tích": "007fca65-5197-59bf-88e0-2cf3902440f5.json",
+  "word:fr:abner": "00d0aeb2-099f-53f3-89f6-c755aef852b6.json",
+  "word:fr:tiens": "00278f90-fa48-59cd-b86c-291c7fdd9e3e.json",
+  "word:fr:dire": "00822be3-14f0-51b2-b954-06fff2dd756a.json",
+  "word:vi:bản_vị": "00ef95d4-b9ce-59d0-874d-20e0c5dae942.json",
   "word:vi:bàn_chải": "0072f8e5-e904-5128-a774-aca4dbc5404e.json",
   "word:fr:boulot": "004eb397-5017-56b0-9316-7f950c2d141d.json",
-  "word:fr:dire": "00822be3-14f0-51b2-b954-06fff2dd756a.json",
-  "word:fr:absoudre": "008ba352-a6a6-5fef-8c11-4f4e55fce991.json",
-  "word:fr:abner": "00d0aeb2-099f-53f3-89f6-c755aef852b6.json",
-  "word:vi:án_tích": "007fca65-5197-59bf-88e0-2cf3902440f5.json",
+  "word:fr:partie": "00cdf8f7-d03d-575e-8bb7-c1b84cb76773.json",
   "dict:vi:khoa_học": "00dafadd-35ba-59de-aa38-957f42769fdc.json",
-  "word:fr:partie": "00cdf8f7-d03d-575e-8bb7-c1b84cb76773.json"
+  "word:vi:An_Hội": "00c1ae92-ad24-51b6-b12f-6da0c9eec3ba.json",
+  "word:fr:absoudre": "008ba352-a6a6-5fef-8c11-4f4e55fce991.json",
+  "word:vi:âu_sầu": "007da553-8d90-5a40-b9c5-497e6f1eacf0.json"
 }

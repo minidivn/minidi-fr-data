@@ -1,12 +1,12 @@
 {
-  "word:fr:abondant": "2a6781f8-285a-5842-9a07-8ee48fde772a.json",
-  "word:vi:ban_giám_khảo": "2acf92fc-4127-5210-817a-64cf0b2fa418.json",
-  "Q1972070": "2aeffd60-ccf6-501e-a095-0d1f0cff7041.json",
-  "Q1159515": "2a64f80e-c745-5ab7-a12f-81094c033743.json",
   "dict:vi:thuật_toán_sắp_xếp_nhanh": "2adfff10-608f-5826-a758-0b0f061044a7.json",
   "word:vi:bách_sinh": "2af30072-5240-5476-9439-9d1c916bfed6.json",
+  "Q1159515": "2a64f80e-c745-5ab7-a12f-81094c033743.json",
+  "Q1972070": "2aeffd60-ccf6-501e-a095-0d1f0cff7041.json",
   "word:vi:An_Ngãi_Tây": "2a20ea9e-6f88-5161-a3fb-7db6287f2b1f.json",
   "word:fr:nouvelle": "2abd2f39-abfd-547b-b8fc-88ddd90eb851.json",
-  "word:fr:abandonnait": "2ad7470e-3f05-508b-b84a-54ba5add533f.json",
-  "word:fr:11ème": "2abc1ed2-cbac-559d-a964-9d00bb4cac6b.json"
+  "word:vi:ban_giám_khảo": "2acf92fc-4127-5210-817a-64cf0b2fa418.json",
+  "word:fr:11ème": "2abc1ed2-cbac-559d-a964-9d00bb4cac6b.json",
+  "word:fr:abondant": "2a6781f8-285a-5842-9a07-8ee48fde772a.json",
+  "word:fr:abandonnait": "2ad7470e-3f05-508b-b84a-54ba5add533f.json"
 }

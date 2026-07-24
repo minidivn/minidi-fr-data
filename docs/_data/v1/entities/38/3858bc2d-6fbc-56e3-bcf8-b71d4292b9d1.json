@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q539",
+      "title": "WikiData Q-item: Q539",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q539"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Giuseppe (Josep / Jousé en niçois) Garibaldi (prononciation italienne : [dʒuˈzɛppe] [ɡariˈbaldi] ), né Joseph Marie Garibaldi le 4 juillet 1807 à Nice (département des Alpes-Maritimes sous le Premier Empire) et mort à Caprera (royaume d’Italie) le 2 juin 1882, est un général, homme politique et patriote italien. Il est considéré, avec Camillo Cavour, Victor-Emmanuel II et Giuseppe Mazzini, comme l’un des « pères de la patrie » italienne. Garibaldi est un personnage fondamental du Risorgimento italien, pour avoir personnellement conduit et combattu dans un grand nombre de campagnes militaires qui ont permis la constitution de l’Italie unifiée. Il a essayé, le plus souvent, d’agir sous l’investiture d’un pouvoir légitime, ce qui ne fait pas de lui à proprement parler un révolutionnaire : il est nommé général par le gouvernement provisoire de Milan en 1848, général de la République romaine de 1849 par le ministre de la Guerre, et c’est..."
+    },
+    "descriptions": {
+      "en": "révolutionnaire italien du XIXe siècle"
+    },
+    "domain": "general",
+    "id": "Q539",
+    "labels": {
+      "en": "Giuseppe Garibaldi"
+    },
+    "properties": {
+      "birth_date": "1807-07-04T00:00:00Z",
+      "death_date": "1882-06-02T00:00:00Z",
+      "occupation": "résistant ou résistante",
+      "summary": "Giuseppe (Josep / Jousé en niçois) Garibaldi (prononciation italienne : [dʒuˈzɛppe] [ɡariˈbaldi] ), né Joseph Marie Garibaldi le 4 juillet 1807 à Nice (département des Alpes-Maritimes sous le Premier Empire) et mort à Caprera (royaume d’Italie) le 2 juin 1882, est un général, homme politique et patriote italien. Il est considéré, avec Camillo Cavour, Victor-Emmanuel II et Giuseppe Mazzini, comme l’un des « pères de la patrie » italienne. Garibaldi est un personnage fondamental du Risorgimento italien, pour avoir personnellement conduit et combattu dans un grand nombre de campagnes militaires qui ont permis la constitution de l’Italie unifiée. Il a essayé, le plus souvent, d’agir sous l’investiture d’un pouvoir légitime, ce qui ne fait pas de lui à proprement parler un révolutionnaire : il est nommé général par le gouvernement provisoire de Milan en 1848, général de la République romaine de 1849 par le ministre de la Guerre, et c’est..."
+    },
+    "type": "person"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q82892",
+      "title": "WikiData Q-item: Q82892",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q82892"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "parti politique français"
+    },
+    "descriptions": {
+      "en": "parti politique français"
+    },
+    "domain": "general",
+    "id": "Q82892",
+    "labels": {
+      "en": "Union des démocrates et indépendants"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

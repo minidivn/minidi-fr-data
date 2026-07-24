@@ -1,10 +1,10 @@
 {
-  "word:vi:ba_đờ_xuy": "584e1731-d7e3-5959-9fc4-1a93e9eaf263.json",
-  "word:fr:soit": "583aeb90-5915-5c02-8e55-23d54272aae1.json",
-  "word:vi:bại_sản": "58ea3687-7aa5-5751-9fe8-b1d685218b9d.json",
-  "word:fr:rien": "58501705-290d-5d21-9750-afc441f8dfe9.json",
-  "word:fr:accents": "580c3cca-b5c7-5219-a5bf-e88b63ea989a.json",
-  "word:vi:ấm_ớ": "58873804-d0b7-52a8-8c57-814786118034.json",
   "word:fr:salut": "58f6d38d-506b-5fd9-852c-e17cc2f12ff4.json",
-  "word:vi:ăn_tươi": "588c3da7-f211-5e48-a860-937cd12b3530.json"
+  "word:vi:ấm_ớ": "58873804-d0b7-52a8-8c57-814786118034.json",
+  "word:vi:ba_đờ_xuy": "584e1731-d7e3-5959-9fc4-1a93e9eaf263.json",
+  "word:fr:accents": "580c3cca-b5c7-5219-a5bf-e88b63ea989a.json",
+  "word:vi:bại_sản": "58ea3687-7aa5-5751-9fe8-b1d685218b9d.json",
+  "word:fr:soit": "583aeb90-5915-5c02-8e55-23d54272aae1.json",
+  "word:vi:ăn_tươi": "588c3da7-f211-5e48-a860-937cd12b3530.json",
+  "word:fr:rien": "58501705-290d-5d21-9750-afc441f8dfe9.json"
 }

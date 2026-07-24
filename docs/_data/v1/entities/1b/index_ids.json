@@ -1,9 +1,9 @@
 {
-  "word:vi:ẩn_số": "1b8194b4-3c78-590a-989d-02993c4a44e2.json",
-  "word:vi:âm_ẩm": "1bee0927-8fbe-59d4-bfda-a6b3b3ab1ab7.json",
-  "word:vi:ắc-quy": "1b346823-c6e8-55b8-a277-7a494b5efa28.json",
   "word:fr:comment": "1b31476c-3157-52ec-8d1b-4ed62a01b2f9.json",
-  "word:fr:que": "1b1aac26-2105-58de-9cb7-6acf82997211.json",
   "word:vi:áo_lót_mình": "1b238130-c1eb-54d3-97a1-a7fad7dd5d00.json",
-  "word:vi:bảnh": "1b97b63b-17dc-52d8-bc42-6f260819697d.json"
+  "word:vi:bảnh": "1b97b63b-17dc-52d8-bc42-6f260819697d.json",
+  "word:vi:ắc-quy": "1b346823-c6e8-55b8-a277-7a494b5efa28.json",
+  "word:vi:âm_ẩm": "1bee0927-8fbe-59d4-bfda-a6b3b3ab1ab7.json",
+  "word:fr:que": "1b1aac26-2105-58de-9cb7-6acf82997211.json",
+  "word:vi:ẩn_số": "1b8194b4-3c78-590a-989d-02993c4a44e2.json"
 }

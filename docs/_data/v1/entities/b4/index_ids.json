@@ -1,13 +1,13 @@
 {
-  "word:fr:abattu": "b4dd7e97-ff20-525a-9ee6-a291ae2248e2.json",
+  "word:fr:compris": "b43c8d6d-4e11-548f-b0d6-672030ed53c7.json",
   "word:fr:abandonner": "b477fe40-531f-5d1a-b5f0-58164a2bc7e3.json",
-  "word:fr:3h": "b48afc8a-2106-567a-a828-c650fce32e70.json",
-  "word:vi:a-lu-min": "b47d9e6c-f84d-5a24-85ba-88300db7b028.json",
+  "word:fr:a2": "b43e5d00-2fd5-5898-9caa-6178784ed89c.json",
+  "word:fr:abattu": "b4dd7e97-ff20-525a-9ee6-a291ae2248e2.json",
+  "word:fr:arrête": "b464d4fc-82e4-5916-96a6-767882618b35.json",
   "word:vi:áo_cối": "b48763b3-5caf-5e2c-ace6-4ac5f1727eae.json",
   "word:vi:âm_thần": "b4544e48-0bb3-512e-a8eb-9b6c6f126c12.json",
-  "word:fr:compris": "b43c8d6d-4e11-548f-b0d6-672030ed53c7.json",
   "Q43286": "b42a86c1-8cc0-5288-9bc7-c2d543c88583.json",
-  "word:fr:arrête": "b464d4fc-82e4-5916-96a6-767882618b35.json",
-  "word:fr:a2": "b43e5d00-2fd5-5898-9caa-6178784ed89c.json",
-  "Q7833286": "b4c932c3-af3f-5eb5-b83e-abccc455cdbb.json"
+  "Q7833286": "b4c932c3-af3f-5eb5-b83e-abccc455cdbb.json",
+  "word:vi:a-lu-min": "b47d9e6c-f84d-5a24-85ba-88300db7b028.json",
+  "word:fr:3h": "b48afc8a-2106-567a-a828-c650fce32e70.json"
 }

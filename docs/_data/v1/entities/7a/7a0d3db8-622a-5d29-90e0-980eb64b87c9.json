@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q493",
+      "title": "WikiData Q-item: Q493",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q493"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Arthur Rimbaud est un poète français, né le 20 octobre 1854 à Charleville et mort le 10 novembre 1891 à Marseille. Bien que brève, son œuvre poétique est caractérisée par une prodigieuse densité thématique et stylistique, faisant de lui une des grandes figures de la littérature française. Arthur Rimbaud écrit ses premiers poèmes à 15 ans. Après une brève phase d'initiation, par assimilation du style des grands poètes contemporains (Charles Baudelaire, Victor Hugo, Théodore de Banville…), développant déjà une franche originalité dans l'approche de thèmes classiques (« Le Dormeur du val », « Vénus anadyomène »), il cherche à dépasser ces influences en développant ses propres conceptions théoriques, déclarant que le poète doit se faire « voyant », c'est-à-dire chercher et décrire l'inconnu par delà les perceptions humaines usuelles, quitte à y sacrifier sa propre intégrité mentale ou physique."
+    },
+    "descriptions": {
+      "en": "poète français (1854–1891)"
+    },
+    "domain": "general",
+    "id": "Q493",
+    "labels": {
+      "en": "Arthur Rimbaud",
+      "fr": "Arthur Rimbaud"
+    },
+    "properties": {
+      "birth_date": "1854-10-20T00:00:00Z",
+      "death_date": "1891-11-10T00:00:00Z",
+      "occupation": "militaire",
+      "summary": "Arthur Rimbaud est un poète français, né le 20 octobre 1854 à Charleville et mort le 10 novembre 1891 à Marseille. Bien que brève, son œuvre poétique est caractérisée par une prodigieuse densité thématique et stylistique, faisant de lui une des grandes figures de la littérature française. Arthur Rimbaud écrit ses premiers poèmes à 15 ans. Après une brève phase d'initiation, par assimilation du style des grands poètes contemporains (Charles Baudelaire, Victor Hugo, Théodore de Banville…), développant déjà une franche originalité dans l'approche de thèmes classiques (« Le Dormeur du val », « Vénus anadyomène »), il cherche à dépasser ces influences en développant ses propres conceptions théoriques, déclarant que le poète doit se faire « voyant », c'est-à-dire chercher et décrire l'inconnu par delà les perceptions humaines usuelles, quitte à y sacrifier sa propre intégrité mentale ou physique."
+    },
+    "type": "person"
+  }
+}

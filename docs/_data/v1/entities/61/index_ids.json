@@ -1,13 +1,13 @@
 {
   "word:fr:bonjour": "61c2dcd8-c371-58bb-8e79-bd9e7f62ef64.json",
-  "word:fr:a.d.": "61d32a14-f207-5c1a-a445-26dd2d702543.json",
-  "Q30469": "6120f011-ec8b-597f-b933-1ad3d3df4018.json",
+  "word:fr:mère": "61a36699-55a5-5fa3-b624-02307d33763c.json",
+  "word:vi:ăn_bốc": "61bde423-555e-56bb-92ae-438e3bfa2abc.json",
   "word:fr:seulement": "61dc55ab-d0f0-5e61-8347-ed14999eb7a1.json",
-  "word:vi:ăn_non": "614f5f05-a1ed-52fc-971b-88948b11fc0a.json",
-  "word:fr:quelque": "61a2b40d-5ab1-5ab1-b221-274440056ea4.json",
-  "word:fr:devrait": "6190a6e7-d583-581c-86b3-a4f72073e6c8.json",
   "word:vi:ấm": "61de2263-3381-56bc-aae7-8b8227861f19.json",
   "Q385317": "618a3b18-5c04-56f1-8b49-0d31a9424d7f.json",
-  "word:vi:ăn_bốc": "61bde423-555e-56bb-92ae-438e3bfa2abc.json",
-  "word:fr:mère": "61a36699-55a5-5fa3-b624-02307d33763c.json"
+  "word:fr:a.d.": "61d32a14-f207-5c1a-a445-26dd2d702543.json",
+  "word:fr:devrait": "6190a6e7-d583-581c-86b3-a4f72073e6c8.json",
+  "word:vi:ăn_non": "614f5f05-a1ed-52fc-971b-88948b11fc0a.json",
+  "Q30469": "6120f011-ec8b-597f-b933-1ad3d3df4018.json",
+  "word:fr:quelque": "61a2b40d-5ab1-5ab1-b221-274440056ea4.json"
 }

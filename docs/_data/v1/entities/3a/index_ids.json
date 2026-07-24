@@ -1,10 +1,10 @@
 {
-  "word:vi:A_Túc": "3ab269eb-dc63-57a2-b5c6-208d37da09b2.json",
-  "Q32197111": "3aba9f4a-be5a-5ea6-8b14-b36821abb5f0.json",
   "word:vi:bám": "3ad4c43a-2137-5d37-ab3c-8d85087c6a67.json",
-  "Q86012180": "3a9536fd-4576-5cf3-b30e-02adf57dda81.json",
-  "word:fr:personne": "3afc08f5-7ddc-5a56-bea3-c7f90f073ce4.json",
-  "word:vi:âm_tiết": "3a3fc0ea-7722-5dd1-90f6-a1e66c9b128f.json",
   "word:fr:aurais": "3a11ed0e-5ee1-52c9-93ac-f9d9218b23a3.json",
-  "word:vi:ác_mô_ni_ca": "3aa76397-a4e6-58c0-bca2-d5d68487d13d.json"
+  "word:fr:personne": "3afc08f5-7ddc-5a56-bea3-c7f90f073ce4.json",
+  "Q86012180": "3a9536fd-4576-5cf3-b30e-02adf57dda81.json",
+  "word:vi:A_Túc": "3ab269eb-dc63-57a2-b5c6-208d37da09b2.json",
+  "word:vi:ác_mô_ni_ca": "3aa76397-a4e6-58c0-bca2-d5d68487d13d.json",
+  "word:vi:âm_tiết": "3a3fc0ea-7722-5dd1-90f6-a1e66c9b128f.json",
+  "Q32197111": "3aba9f4a-be5a-5ea6-8b14-b36821abb5f0.json"
 }

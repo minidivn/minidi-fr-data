@@ -1,13 +1,13 @@
 {
+  "Q5005743": "ba00f0f4-1964-51a3-af56-78eeb65a4063.json",
+  "word:fr:attendez": "ba5965e3-ccfa-5904-93d8-2ec0692f87db.json",
+  "word:fr:semaine": "bac75285-bef4-592e-b964-7a9ea4376ff0.json",
+  "word:vi:bạch_đái": "ba787f07-fb47-5864-9dc3-97b7924bbf88.json",
+  "word:vi:ba_lô": "badf745f-3073-53c3-a441-1069f5e00ef9.json",
   "word:vi:ba_cọc_ba_đồng_ba_dò": "ba80d296-10ac-581c-82fa-d12268901b22.json",
-  "word:fr:est-ce": "ba248145-af79-51b6-9748-45b5bccbf7ec.json",
+  "word:vi:á_khẩu": "ba24f4a8-bf76-514d-b7df-d362cbf202fa.json",
   "word:fr:fait": "ba3e65ff-41b9-5f23-b082-9361fdbef132.json",
   "word:fr:autres": "babaa5bd-40fb-520f-a339-533e4704193a.json",
-  "word:vi:ba_lô": "badf745f-3073-53c3-a441-1069f5e00ef9.json",
-  "word:vi:bạch_đái": "ba787f07-fb47-5864-9dc3-97b7924bbf88.json",
-  "word:fr:semaine": "bac75285-bef4-592e-b964-7a9ea4376ff0.json",
-  "word:fr:attendez": "ba5965e3-ccfa-5904-93d8-2ec0692f87db.json",
-  "word:vi:á_khẩu": "ba24f4a8-bf76-514d-b7df-d362cbf202fa.json",
-  "word:fr:aboyait": "ba0d4720-06e5-52dc-812e-9be8016fa7c3.json",
-  "Q5005743": "ba00f0f4-1964-51a3-af56-78eeb65a4063.json"
+  "word:fr:est-ce": "ba248145-af79-51b6-9748-45b5bccbf7ec.json",
+  "word:fr:aboyait": "ba0d4720-06e5-52dc-812e-9be8016fa7c3.json"
 }

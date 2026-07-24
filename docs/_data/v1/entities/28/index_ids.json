@@ -1,13 +1,14 @@
 {
-  "word:fr:moins": "28f97b24-55f3-5aae-a047-523149525d2b.json",
+  "word:fr:21e": "28c94645-b7a2-5267-9a76-abb759b2088b.json",
   "word:vi:bá_quan": "28660bfc-addc-5fba-bac1-68135a655055.json",
-  "word:vi:ban_bố": "286fc107-9b0b-5676-b941-a1ad46288528.json",
+  "word:fr:moins": "28f97b24-55f3-5aae-a047-523149525d2b.json",
+  "word:vi:ác_mộng": "28b56e08-b41f-5ff0-9d73-6e83f00c9d14.json",
+  "word:fr:ont": "28398fae-5bc8-5cfd-bcc4-baee86286831.json",
+  "word:vi:an-đê-hít": "289704da-9780-5076-8981-2b5d7dbdf4f2.json",
+  "Q82892": "289ddbce-a14a-5c18-9bb6-8a8c1836506f.json",
+  "Q429170": "28d67120-7288-5105-a91a-a63ebfc82cdb.json",
   "word:vi:a-xít_lác-tíc": "28cf43f5-13d4-5585-8dc3-51f8cab70911.json",
   "word:fr:academy": "281a2fa8-0d87-5738-953f-22883e092d7b.json",
-  "word:vi:ác_mộng": "28b56e08-b41f-5ff0-9d73-6e83f00c9d14.json",
-  "Q429170": "28d67120-7288-5105-a91a-a63ebfc82cdb.json",
   "word:vi:ảo_mộng": "281e7f28-a127-5188-98cc-a9057c5d6db2.json",
-  "word:vi:an-đê-hít": "289704da-9780-5076-8981-2b5d7dbdf4f2.json",
-  "word:fr:ont": "28398fae-5bc8-5cfd-bcc4-baee86286831.json",
-  "word:fr:21e": "28c94645-b7a2-5267-9a76-abb759b2088b.json"
+  "word:vi:ban_bố": "286fc107-9b0b-5676-b941-a1ad46288528.json"
 }

@@ -1,13 +1,13 @@
 {
-  "word:fr:48h": "1d401a65-3c10-54f0-a714-791b9135a602.json",
-  "Q7709770": "1dacbf54-e754-5603-81dc-685d5170eecd.json",
-  "word:fr:vois": "1ddc898a-b6d4-57e8-9ded-91518c5de053.json",
-  "word:fr:cause": "1d85cf70-a7ee-59cb-ae31-67ecb83883ec.json",
-  "word:fr:absorber": "1daf4562-9a8f-5d53-95c8-3d2d70f6f07b.json",
-  "word:vi:A_Di_Đà_Phật": "1d9ffd9f-d83d-5a2f-9aca-e10396cac0b4.json",
   "word:vi:ẩm_thực": "1d20bfc2-8a13-5f0b-bb67-192cf8f1cb86.json",
-  "word:vi:An_Lợi_Đông": "1d08a014-4a89-5d58-aecf-cabed10e0bef.json",
+  "word:fr:absorber": "1daf4562-9a8f-5d53-95c8-3d2d70f6f07b.json",
   "word:fr:genre": "1d3e340c-1946-556f-bc70-20d7526c0c6a.json",
+  "word:vi:ai_bi": "1dd07c09-5cf1-5f18-b1da-5acfcdd6d204.json",
+  "word:fr:vois": "1ddc898a-b6d4-57e8-9ded-91518c5de053.json",
+  "word:vi:A_Di_Đà_Phật": "1d9ffd9f-d83d-5a2f-9aca-e10396cac0b4.json",
+  "word:fr:cause": "1d85cf70-a7ee-59cb-ae31-67ecb83883ec.json",
+  "word:vi:An_Lợi_Đông": "1d08a014-4a89-5d58-aecf-cabed10e0bef.json",
   "word:vi:áo_nẹp": "1d1e6ab8-1782-59d3-96a7-083ef410bb1f.json",
-  "word:vi:ai_bi": "1dd07c09-5cf1-5f18-b1da-5acfcdd6d204.json"
+  "word:fr:48h": "1d401a65-3c10-54f0-a714-791b9135a602.json",
+  "Q7709770": "1dacbf54-e754-5603-81dc-685d5170eecd.json"
 }

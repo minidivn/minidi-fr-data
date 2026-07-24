@@ -1,11 +1,11 @@
 {
-  "word:fr:accessible": "aabd6c25-4741-5dfb-9a49-8bce85fba6d2.json",
-  "word:vi:bản_tính": "aada6a6f-acd1-5346-9f9c-43340c1e1c60.json",
-  "word:vi:ấu": "aae9bb1e-2b15-5228-9eb8-e7a23c46441f.json",
-  "word:vi:ấm_ức": "aa377370-5c09-5445-b1cf-f626190bf034.json",
-  "word:vi:ác_tật": "aa342b4f-20fa-5025-bcd5-b9a6f1277dd3.json",
   "word:vi:ai": "aa99458f-ef4b-50f4-8ff3-01708208eacd.json",
+  "word:vi:bản_tính": "aada6a6f-acd1-5346-9f9c-43340c1e1c60.json",
   "word:fr:au": "aa716187-96de-505f-be05-b34265ccebb3.json",
-  "word:vi:aldehyd": "aa60dab4-a7d3-5276-8da3-f4257fface4b.json",
-  "word:vi:ẩm_sì": "aa28ad37-9c90-5f15-92ef-de5b2735c0de.json"
+  "word:fr:accessible": "aabd6c25-4741-5dfb-9a49-8bce85fba6d2.json",
+  "word:vi:ác_tật": "aa342b4f-20fa-5025-bcd5-b9a6f1277dd3.json",
+  "word:vi:ấu": "aae9bb1e-2b15-5228-9eb8-e7a23c46441f.json",
+  "word:vi:ẩm_sì": "aa28ad37-9c90-5f15-92ef-de5b2735c0de.json",
+  "word:vi:ấm_ức": "aa377370-5c09-5445-b1cf-f626190bf034.json",
+  "word:vi:aldehyd": "aa60dab4-a7d3-5276-8da3-f4257fface4b.json"
 }

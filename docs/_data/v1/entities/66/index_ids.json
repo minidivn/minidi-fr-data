@@ -1,16 +1,16 @@
 {
   "word:vi:án_từ": "66d85651-e3b7-5635-92d5-306de86e5def.json",
-  "word:fr:vrai": "6610252a-4056-5bbe-97b2-06b5152f0d1b.json",
+  "Q112579225": "6675fdd7-8fbb-50b7-b0ce-2acabf8e4017.json",
+  "word:vi:amygdal": "661f8f8d-5ae5-56a0-8cf0-3616c2c39f3d.json",
   "word:vi:bài_ngoại": "660a69de-a000-5904-bad2-827a4351914c.json",
   "word:vi:ẩn_dụ": "6635a0f8-d9df-5662-8ab7-ee4a69218e16.json",
-  "word:vi:bách_thú": "66be0348-6377-5490-85dc-7716e10e619c.json",
-  "word:vi:ấm_tích": "660c0ab6-b386-54e6-bf96-2099205ea8c1.json",
-  "Q112579225": "6675fdd7-8fbb-50b7-b0ce-2acabf8e4017.json",
-  "word:fr:perdu": "6658c5ed-6ea3-5113-add7-3486a59a1f99.json",
-  "word:vi:amygdal": "661f8f8d-5ae5-56a0-8cf0-3616c2c39f3d.json",
-  "word:fr:a-tu": "6661883d-7986-5cf1-b665-f4522a134e42.json",
-  "word:fr:23h00": "6632820a-257a-58fd-aa2b-56af30f333f8.json",
   "Q470867": "669f186e-cd96-5f36-974b-2859137e977d.json",
+  "word:vi:ấm_tích": "660c0ab6-b386-54e6-bf96-2099205ea8c1.json",
+  "word:fr:23h00": "6632820a-257a-58fd-aa2b-56af30f333f8.json",
+  "word:vi:ắt_hẳn": "668f8cc2-3684-5dcf-8fd2-88efcb0d6f3f.json",
+  "word:fr:a-tu": "6661883d-7986-5cf1-b665-f4522a134e42.json",
+  "word:fr:vrai": "6610252a-4056-5bbe-97b2-06b5152f0d1b.json",
+  "word:fr:perdu": "6658c5ed-6ea3-5113-add7-3486a59a1f99.json",
   "word:fr:abba": "6630ce48-dc9c-57de-8d95-3b36b33f86df.json",
-  "word:vi:ắt_hẳn": "668f8cc2-3684-5dcf-8fd2-88efcb0d6f3f.json"
+  "word:vi:bách_thú": "66be0348-6377-5490-85dc-7716e10e619c.json"
 }

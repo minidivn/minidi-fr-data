@@ -1,13 +1,13 @@
 {
-  "word:vi:ám_chỉ": "5f3a7210-c461-511a-866a-bf0f01841ffb.json",
-  "word:fr:mettre": "5f15cdae-7770-5d86-b843-2c873185e494.json",
-  "word:fr:beaucoup": "5fdfa892-7b65-5c95-a78e-17155d26b27b.json",
-  "word:vi:ác_ma_phái": "5fca12f5-8926-5254-8656-8bee4be8ef44.json",
-  "word:vi:áo_bà_ba": "5f535afd-f6d3-5b68-bedb-94b7a4f5857e.json",
-  "word:fr:est": "5fe41f73-0f5a-59dc-b0b6-caa179b91ba8.json",
-  "word:vi:A_Tiêng": "5fab25bc-c612-59d6-8f0e-1467c0eab752.json",
-  "word:vi:a-xê-ti-len_lỏng": "5f8cb0f6-3c05-527e-a386-395c166128f5.json",
   "word:vi:ăn_lan": "5f568a16-af98-5928-b6bd-6ad4be65694e.json",
+  "word:vi:áo_bà_ba": "5f535afd-f6d3-5b68-bedb-94b7a4f5857e.json",
   "word:vi:a-ba-giua": "5fea433c-a1fc-5cfe-81a7-ab5611c30143.json",
-  "word:vi:bãi_khoá": "5fbf3025-ec75-511a-87da-6aee1c4889fd.json"
+  "word:vi:A_Tiêng": "5fab25bc-c612-59d6-8f0e-1467c0eab752.json",
+  "word:fr:mettre": "5f15cdae-7770-5d86-b843-2c873185e494.json",
+  "word:vi:bãi_khoá": "5fbf3025-ec75-511a-87da-6aee1c4889fd.json",
+  "word:vi:ám_chỉ": "5f3a7210-c461-511a-866a-bf0f01841ffb.json",
+  "word:vi:a-xê-ti-len_lỏng": "5f8cb0f6-3c05-527e-a386-395c166128f5.json",
+  "word:fr:est": "5fe41f73-0f5a-59dc-b0b6-caa179b91ba8.json",
+  "word:fr:beaucoup": "5fdfa892-7b65-5c95-a78e-17155d26b27b.json",
+  "word:vi:ác_ma_phái": "5fca12f5-8926-5254-8656-8bee4be8ef44.json"
 }

@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12742",
+      "title": "WikiData Q-item: Q12742",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12742"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "musicien et professeur de musique français, principalement connu pour avoir inventé la langue musicale universelle solresol"
+    },
+    "descriptions": {
+      "en": "musicien et professeur de musique français, principalement connu pour avoir inventé la langue musicale universelle solresol"
+    },
+    "domain": "general",
+    "id": "Q12742",
+    "labels": {
+      "en": "François Sudre"
+    },
+    "properties": {
+      "birth_date": "1787-08-15T00:00:00Z",
+      "death_date": "1862-10-03T00:00:00Z",
+      "occupation": "compositeur ou compositrice"
+    },
+    "type": "person"
+  }
+}

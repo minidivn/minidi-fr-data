@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q204821",
+      "title": "WikiData Q-item: Q204821",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q204821"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "île du sud de l’océan Indien"
+    },
+    "descriptions": {
+      "en": "île du sud de l’océan Indien"
+    },
+    "domain": "general",
+    "id": "Q204821",
+    "labels": {
+      "en": "île Saint-Paul"
+    },
+    "properties": {
+      "coordinates": "Point(77.522222222 -38.73)"
+    },
+    "type": "place"
+  }
+}

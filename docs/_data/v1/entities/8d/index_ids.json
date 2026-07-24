@@ -1,17 +1,17 @@
 {
-  "word:fr:1re": "8dbb1847-faba-5550-acc5-e9bee6a7819f.json",
-  "word:fr:3ch00718e": "8d03e1c8-7f48-50c4-81cd-61d2db97487c.json",
-  "word:fr:hé": "8ded8ece-555f-5cff-a1c7-3bcf770f3cb8.json",
-  "word:fr:8ème": "8d6390da-3256-5698-af86-2c05c4f6de01.json",
   "word:fr:eau": "8d5d4585-cfd9-5ed8-837a-a0138e4662b1.json",
-  "Q126703743": "8dcc023b-a3e9-5848-a8e2-04cd2a4e5b97.json",
+  "word:fr:3ch00718e": "8d03e1c8-7f48-50c4-81cd-61d2db97487c.json",
   "word:vi:bà_trẻ": "8d0edc14-d936-5e4e-a768-3ecba3c8cf24.json",
+  "word:fr:accepteriez": "8d303b41-7b08-5481-aee7-4c816e36a719.json",
+  "word:vi:ám_trợ": "8d478530-c73e-556f-b0b6-085e8a88ff1d.json",
+  "Q5036990": "8d53086d-60a9-5e2d-a4eb-d0bb50a09353.json",
   "word:vi:ăn_vã": "8d417a8c-6bc6-53fc-a6a1-f5f9a7df9d55.json",
   "word:vi:a-pê-ri-típ": "8d5e930b-8d33-5e14-8220-9b4973bf84bf.json",
-  "word:vi:ác_giả_ác_báo": "8d6ef3ee-3b86-5ce2-b802-5cbfa9543b26.json",
-  "word:fr:aide": "8d09555f-b648-5f98-a191-ba7b8514d860.json",
-  "word:vi:ám_trợ": "8d478530-c73e-556f-b0b6-085e8a88ff1d.json",
+  "Q126703743": "8dcc023b-a3e9-5848-a8e2-04cd2a4e5b97.json",
+  "word:fr:hé": "8ded8ece-555f-5cff-a1c7-3bcf770f3cb8.json",
+  "word:fr:1re": "8dbb1847-faba-5550-acc5-e9bee6a7819f.json",
   "word:vi:bà_mụ": "8d01daa6-d4b5-5b6f-8950-263cdf38ba67.json",
-  "word:fr:accepteriez": "8d303b41-7b08-5481-aee7-4c816e36a719.json",
-  "Q5036990": "8d53086d-60a9-5e2d-a4eb-d0bb50a09353.json"
+  "word:fr:8ème": "8d6390da-3256-5698-af86-2c05c4f6de01.json",
+  "word:vi:ác_giả_ác_báo": "8d6ef3ee-3b86-5ce2-b802-5cbfa9543b26.json",
+  "word:fr:aide": "8d09555f-b648-5f98-a191-ba7b8514d860.json"
 }
