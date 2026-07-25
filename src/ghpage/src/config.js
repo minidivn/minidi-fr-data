@@ -16,7 +16,7 @@ export default {
     2.2137
   ],
   "mapZoom": 6,
-  "githubRepo": "minidivn/minidi-fr-data",
+  "githubRepo": "minidivn/minidi-data-country.fr",
   "dataSource": "WikiData",
   "dataPath": "_data/index.json",
   "chatCountry": "France",
