@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q16945635",
+      "title": "WikiData Q-item: Q16945635",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q16945635"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "World Heritage Site in Greece"
+    },
+    "descriptions": {
+      "en": "World Heritage Site in Greece"
+    },
+    "domain": "general",
+    "id": "Q16945635",
+    "labels": {
+      "en": "Archaeological Sites of Mycenae and Tiryns"
+    },
+    "properties": {
+      "coordinates": "Point(22.75 37.73333333)"
+    },
+    "type": "place"
+  }
+}

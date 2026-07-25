@@ -1,15 +1,5 @@
 {
-  "word:fr:viens": "33684bf2-9c56-5424-b1e4-13736267de71.json",
-  "word:fr:abîmé": "338d30cb-7129-5666-a038-df492caa0138.json",
-  "word:fr:dans": "3389c6a1-fc4a-5fab-9b11-e4dfde04e441.json",
-  "word:vi:ăn_uống": "33d1ab2d-194b-57e1-9c64-e8f2e83f3bf1.json",
-  "word:vi:ăn_quỵt": "3370b4c9-fab3-5a17-a142-117c812fc19a.json",
   "word:fr:accablantes": "334a0e02-b9d5-5c28-b386-22dc77dc14a6.json",
-  "word:vi:ảng": "33ecd53f-1e86-5a39-84d4-c514a7aaaed7.json",
-  "word:vi:ba_cùng": "33d0f942-fed9-5bcc-a794-46d37e4d4137.json",
-  "word:fr:eh": "33035e46-fc66-5434-9cc4-d37af7b7fcb1.json",
-  "word:fr:abîmez": "334386c4-ccf1-57ba-922e-f7f358873d10.json",
-  "word:vi:ẳng": "33e556ea-3e2c-5d98-8319-216c6f8ea639.json",
-  "word:vi:ăn_lãi": "3365531c-00c1-50ae-9a17-2e08877bc2f5.json",
-  "word:vi:ác_là": "33c243fd-327f-53c7-ad38-83c347315d72.json"
+  "word:fr:abîmé": "338d30cb-7129-5666-a038-df492caa0138.json",
+  "word:fr:abîmez": "334386c4-ccf1-57ba-922e-f7f358873d10.json"
 }

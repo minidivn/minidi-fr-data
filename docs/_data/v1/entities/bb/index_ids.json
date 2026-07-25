@@ -1,18 +1,8 @@
 {
-  "word:vi:ạch": "bb5c57c9-8dc4-55f9-a8cd-1b6219fcaec5.json",
-  "word:fr:accepterons": "bb638f8a-ba5e-58bf-add9-cbc49ac39e49.json",
-  "word:fr:abattre": "bba9b439-9231-5365-8ba8-16ce1d24339f.json",
-  "Q1406000": "bbd6a994-6ba1-5428-89b4-ce38b88827ac.json",
-  "word:vi:bản_án": "bb29a91b-ac9d-5ab2-811d-840b3aa47194.json",
-  "word:fr:désolé": "bb65a2cf-7fba-58ab-a7bd-0b2a6ca2aa0b.json",
-  "word:vi:an_toàn": "bb67e36b-0ea7-5bd8-b8f3-22d8451e3a56.json",
-  "word:vi:An_Nhơn_Tây": "bb7ff8da-df77-58f4-a242-05759e94ed8e.json",
-  "word:fr:accabler": "bbfa7e67-6cc7-5054-84d0-e35ceed02396.json",
-  "word:fr:propos": "bb7c295b-b24a-5072-9c00-4d12c86e8def.json",
-  "word:fr:a.l.i.e.": "bbeb680d-4ef1-5e4a-a59a-86381c861a34.json",
-  "word:vi:bản_sắc": "bba6846b-14cc-5154-93c3-3862bdcb3bd4.json",
-  "word:vi:ân_xá": "bbda6826-31a5-5ffe-a901-4c73d733716e.json",
-  "word:fr:femmes": "bb054775-12aa-5439-8030-02dbdec7d6a1.json",
   "word:fr:absorbe": "bb70975e-71a9-535c-abb3-fe62be7fabf9.json",
-  "word:fr:abdominale": "bbfd67da-0654-5831-b664-5bec2f06ef7e.json"
+  "word:fr:abattre": "bba9b439-9231-5365-8ba8-16ce1d24339f.json",
+  "word:fr:abdominale": "bbfd67da-0654-5831-b664-5bec2f06ef7e.json",
+  "word:fr:a.l.i.e.": "bbeb680d-4ef1-5e4a-a59a-86381c861a34.json",
+  "word:fr:accepterons": "bb638f8a-ba5e-58bf-add9-cbc49ac39e49.json",
+  "word:fr:accabler": "bbfa7e67-6cc7-5054-84d0-e35ceed02396.json"
 }

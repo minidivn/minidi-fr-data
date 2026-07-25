@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12622",
+      "title": "WikiData Q-item: Q12622",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12622"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Gaston Joseph Waringhien, né le 29 juillet 1901 à Lille et mort le 20 décembre 1991 à Paris 13e, est un professeur à l’université de Tours, puis au lycée Lakanal à Sceaux. Il a contribué à plusieurs ouvrages dont Le français élémentaire dans le cadre de la commission ministérielle Gougenheim et le Grand Larousse encyclopédique."
+    },
+    "descriptions": {
+      "en": "espérantiste français (1901-1991)"
+    },
+    "domain": "general",
+    "id": "Q12622",
+    "labels": {
+      "en": "Gaston Waringhien",
+      "fr": "Gaston Waringhien"
+    },
+    "properties": {
+      "birth_date": "1901-07-29T00:00:00Z",
+      "death_date": "1991-12-20T00:00:00Z",
+      "occupation": "espérantologue",
+      "summary": "Gaston Joseph Waringhien, né le 29 juillet 1901 à Lille et mort le 20 décembre 1991 à Paris 13e, est un professeur à l’université de Tours, puis au lycée Lakanal à Sceaux. Il a contribué à plusieurs ouvrages dont Le français élémentaire dans le cadre de la commission ministérielle Gougenheim et le Grand Larousse encyclopédique."
+    },
+    "type": "person"
+  }
+}

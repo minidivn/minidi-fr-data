@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q97293336",
+      "title": "WikiData Q-item: Q97293336",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q97293336"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "réserve naturelle en Albanie"
+    },
+    "descriptions": {
+      "en": "réserve naturelle en Albanie"
+    },
+    "domain": "general",
+    "id": "Q97293336",
+    "labels": {
+      "en": "Réserve naturelle de Rrajcë"
+    },
+    "properties": {
+      "coordinates": "Point(20.500555555 41.203055555)"
+    },
+    "type": "place"
+  }
+}

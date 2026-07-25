@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q4087405",
+      "title": "WikiData Q-item: Q4087405",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q4087405"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "battle of the Gallic Wars"
+    },
+    "descriptions": {
+      "en": "battle of the Gallic Wars"
+    },
+    "domain": "general",
+    "id": "Q4087405",
+    "labels": {
+      "en": "siège d'Avaricum"
+    },
+    "properties": {
+      "point_in_time": "-0051-04-01T00:00:00Z"
+    },
+    "type": "event"
+  }
+}

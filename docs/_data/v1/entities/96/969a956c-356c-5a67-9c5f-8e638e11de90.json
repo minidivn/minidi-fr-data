@@ -1,0 +1,47 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12091",
+      "title": "WikiData Q-item: Q12091",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12091"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Henry Dunant, né le 8 mai 1828 à Genève et mort le 30 octobre 1910 à Heiden, homme d'affaires et humaniste suisse, est considéré comme le fondateur du mouvement de la Croix-Rouge internationale.\nEn juin 1859, il découvre les dégâts de la bataille de Solférino. Il publie le livre Un souvenir de Solférino en 1862. Une année plus tard, à Genève, il fonde le Comité international de secours aux militaires blessés, appelé en 1876 Comité international de la Croix-Rouge.\nLa première convention de Genève est ratifiée en 1864. Il obtient avec Frédéric Passy le premier prix Nobel de la paix en 1901."
+    },
+    "descriptions": {
+      "en": "homme d'affaires et humaniste suisse, fondateur de la Croix-Rouge (1828-1910)"
+    },
+    "domain": "general",
+    "id": "Q12091",
+    "labels": {
+      "en": "Henry Dunant",
+      "fr": "Henry Dunant"
+    },
+    "properties": {
+      "birth_date": "1828-05-08T00:00:00Z",
+      "death_date": "1910-10-30T00:00:00Z",
+      "occupation": "entrepreneur ou entrepreneuse",
+      "summary": "Henry Dunant, né le 8 mai 1828 à Genève et mort le 30 octobre 1910 à Heiden, homme d'affaires et humaniste suisse, est considéré comme le fondateur du mouvement de la Croix-Rouge internationale.\nEn juin 1859, il découvre les dégâts de la bataille de Solférino. Il publie le livre Un souvenir de Solférino en 1862. Une année plus tard, à Genève, il fonde le Comité international de secours aux militaires blessés, appelé en 1876 Comité international de la Croix-Rouge.\nLa première convention de Genève est ratifiée en 1864. Il obtient avec Frédéric Passy le premier prix Nobel de la paix en 1901."
+    },
+    "type": "person"
+  }
+}

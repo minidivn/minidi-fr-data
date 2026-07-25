@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q298462",
+      "title": "WikiData Q-item: Q298462",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q298462"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "club français de football"
+    },
+    "descriptions": {
+      "en": "club français de football"
+    },
+    "domain": "general",
+    "id": "Q298462",
+    "labels": {
+      "en": "Sarreguemines FC"
+    },
+    "properties": {},
+    "type": "person"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q218140",
+      "title": "WikiData Q-item: Q218140",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q218140"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "ancien groupe multinational spécialisé dans les bateaux pneumatiques et les équipements de piscine, filiale de Zodiac jusqu'en 2007"
+    },
+    "descriptions": {
+      "en": "ancien groupe multinational spécialisé dans les bateaux pneumatiques et les équipements de piscine, filiale de Zodiac jusqu'en 2007"
+    },
+    "domain": "general",
+    "id": "Q218140",
+    "labels": {
+      "en": "Zodiac Marine & Pool"
+    },
+    "properties": {},
+    "type": "organization"
+  }
+}

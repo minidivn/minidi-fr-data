@@ -8,7 +8,7 @@ export default {
   ],
   "defaultLanguage": "fr",
   "title": "France Knowledge Graph",
-  "subtitle": "Exploring 2,622 WikiData entities: history, geography, people & culture",
+  "subtitle": "Exploring 601 WikiData entities: history, geography, people & culture",
   "splashTitle": "🇫🇷 MiniDi",
   "splashMessage": "Loading France knowledge graph...",
   "mapCenter": [

@@ -1,15 +1,4 @@
 {
-  "word:vi:bà_hoàng": "072a8bd4-a67e-5a85-85ea-78d0829153af.json",
-  "word:vi:ăn_bòn": "07c2617a-7ccb-536b-bd27-4787e17a58a4.json",
-  "word:vi:ái": "07776f61-fcb4-55f0-a834-7e2e66c8934c.json",
-  "word:vi:ba_ba": "076efdc1-bc45-5454-a442-b59f4487f6c9.json",
-  "word:vi:ả_đầu": "07934aa2-b0f8-5a8e-8064-344a5de27005.json",
-  "word:fr:faut": "0762465b-b286-5621-a1ff-012f47ed03b9.json",
-  "word:vi:An_Lư": "071ce92b-daca-58d8-aac6-0c6a1d8436fd.json",
-  "word:vi:an_giấc": "0771325c-cb98-5101-bf38-fcfc9dea06b0.json",
-  "word:fr:abby": "07f89cdd-077b-5e94-b297-d00580f65b20.json",
-  "word:vi:accordeon": "0764dc2a-78ca-5366-b23d-a8d7e15c3018.json",
-  "word:vi:ẩm_độ": "07fc408b-3367-5805-8001-4ca09a76fe0c.json",
-  "word:vi:ác_điểu": "07e6ce42-9a7f-5697-b16f-71db14fa8e76.json",
-  "word:fr:absinthe": "07ba0234-a8a1-5524-b9a5-1f75915c1d3e.json"
+  "word:fr:absinthe": "07ba0234-a8a1-5524-b9a5-1f75915c1d3e.json",
+  "word:fr:abby": "07f89cdd-077b-5e94-b297-d00580f65b20.json"
 }

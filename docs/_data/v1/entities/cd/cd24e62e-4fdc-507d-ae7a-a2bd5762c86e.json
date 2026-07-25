@@ -1,0 +1,44 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28918",
+      "title": "WikiData Q-item: Q28918",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28918"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "linguiste, philosophe et psychanalyste féministe française"
+    },
+    "descriptions": {
+      "en": "linguiste, philosophe et psychanalyste féministe française"
+    },
+    "domain": "general",
+    "id": "Q28918",
+    "labels": {
+      "en": "Luce Irigaray"
+    },
+    "properties": {
+      "birth_date": "1930-05-03T00:00:00Z",
+      "occupation": "linguiste"
+    },
+    "type": "person"
+  }
+}

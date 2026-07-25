@@ -1,14 +1,7 @@
 {
-  "word:vi:á_kim": "21619aa8-4039-5c6d-845b-0eb8de7e8e93.json",
-  "word:fr:oui": "214abc8b-315c-5fd9-aee2-367304d82a49.json",
-  "word:vi:ăn_đụng": "216d0c76-8545-52e6-8b6b-7895f1306d89.json",
-  "word:vi:ăn_rỗi": "2146c7b1-e0a0-5edc-85b6-a3ba1d7ce9b5.json",
+  "Q699286": "2116c8ac-c1f2-55b3-bcc8-c219dacbb628.json",
   "word:fr:a-t-ii": "2171483d-9e6a-54cf-a91d-7ebbe21232b5.json",
-  "word:vi:ái_quốc": "217808f4-b16b-5933-a829-c1e00d1d806f.json",
-  "word:fr:jusqu'": "219e6a12-e788-5940-9c47-e9021dc2dd18.json",
-  "Q32198424": "21118dc1-aabf-521f-862a-0b9af5fc8c7a.json",
-  "word:vi:bác_cổ": "2153c828-0256-5e65-9875-5d4ac3c6135c.json",
-  "word:fr:accepter": "2166212e-17bb-5032-9e97-78a3b3851e8e.json",
   "word:fr:20h": "2129ae80-22fb-5936-83ab-524c1813b23d.json",
-  "word:fr:aberrations": "216a77e8-72f5-57c7-9fb2-0e4505e5ed1d.json"
+  "word:fr:aberrations": "216a77e8-72f5-57c7-9fb2-0e4505e5ed1d.json",
+  "word:fr:accepter": "2166212e-17bb-5032-9e97-78a3b3851e8e.json"
 }

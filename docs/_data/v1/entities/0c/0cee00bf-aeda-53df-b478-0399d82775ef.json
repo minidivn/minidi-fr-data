@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-fr-data",
     "trust_tier": 5,
-    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "espérantiste, historien, professeur d'université, auteur, journaliste et pacifiste suisse"
+      "markdown": "Edmond Privat, né le 17 août 1889 à Genève et mort le 28 août 1962 à Rolle dans le canton de Vaud, est un journaliste, écrivain, professeur et pacifiste suisse, qui a vécu et enseigné à Neuchâtel."
     },
     "descriptions": {
       "en": "espérantiste, historien, professeur d'université, auteur, journaliste et pacifiste suisse"
@@ -33,12 +33,14 @@
     "domain": "general",
     "id": "Q12571",
     "labels": {
-      "en": "Edmond Privat"
+      "en": "Edmond Privat",
+      "fr": "Edmond Privat"
     },
     "properties": {
       "birth_date": "1889-08-19T00:00:00Z",
       "death_date": "1962-08-28T00:00:00Z",
-      "occupation": "militant pour la paix"
+      "occupation": "militant pour la paix",
+      "summary": "Edmond Privat, né le 17 août 1889 à Genève et mort le 28 août 1962 à Rolle dans le canton de Vaud, est un journaliste, écrivain, professeur et pacifiste suisse, qui a vécu et enseigné à Neuchâtel."
     },
     "type": "person"
   }

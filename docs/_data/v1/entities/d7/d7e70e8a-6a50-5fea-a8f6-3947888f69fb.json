@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q119610",
+      "title": "WikiData Q-item: Q119610",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q119610"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "riviere française"
+    },
+    "descriptions": {
+      "en": "riviere française"
+    },
+    "domain": "general",
+    "id": "Q119610",
+    "labels": {
+      "en": "Tille"
+    },
+    "properties": {
+      "coordinates": "Point(5.3453 47.1272)"
+    },
+    "type": "place"
+  }
+}

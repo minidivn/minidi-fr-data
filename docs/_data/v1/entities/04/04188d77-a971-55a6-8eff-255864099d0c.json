@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q671624",
+      "title": "WikiData Q-item: Q671624",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q671624"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "lac franco-suisse"
+    },
+    "descriptions": {
+      "en": "lac franco-suisse"
+    },
+    "domain": "general",
+    "id": "Q671624",
+    "labels": {
+      "en": "lac des Brenets"
+    },
+    "properties": {
+      "coordinates": "Point(6.697777777 47.069166666)"
+    },
+    "type": "place"
+  }
+}

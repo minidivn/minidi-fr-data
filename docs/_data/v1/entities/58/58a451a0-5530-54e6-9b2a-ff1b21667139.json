@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q31481",
+      "title": "WikiData Q-item: Q31481",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q31481"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "auteur-compositeur-interprète, producteur et cinéaste français"
+    },
+    "descriptions": {
+      "en": "auteur-compositeur-interprète, producteur et cinéaste français"
+    },
+    "domain": "general",
+    "id": "Q31481",
+    "labels": {
+      "en": "Pierre Barouh"
+    },
+    "properties": {
+      "birth_date": "1934-02-19T00:00:00Z",
+      "death_date": "2016-12-28T00:00:00Z",
+      "occupation": "acteur ou actrice"
+    },
+    "type": "person"
+  }
+}

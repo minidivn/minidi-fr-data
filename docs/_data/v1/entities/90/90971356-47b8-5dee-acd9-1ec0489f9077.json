@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q28973",
+      "title": "WikiData Q-item: Q28973",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q28973"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "entrepreneur français en construction de véhicules motorisés et pilote automobile"
+    },
+    "descriptions": {
+      "en": "entrepreneur français en construction de véhicules motorisés et pilote automobile"
+    },
+    "domain": "general",
+    "id": "Q28973",
+    "labels": {
+      "en": "Georges Richard"
+    },
+    "properties": {
+      "birth_date": "1863-03-09T00:00:00Z",
+      "death_date": "1922-06-16T00:00:00Z",
+      "occupation": "industriel ou industrielle"
+    },
+    "type": "person"
+  }
+}

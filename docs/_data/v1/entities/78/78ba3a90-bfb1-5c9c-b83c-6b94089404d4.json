@@ -1,0 +1,46 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q12937",
+      "title": "WikiData Q-item: Q12937",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q12937"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "Georges Fenech, né le 26 octobre 1954 à Sousse (Tunisie), est un magistrat et homme politique français, membre du RPR, de l'UMP puis des Républicains.\nMagistrat en Rhône-Alpes puis à Bobigny, il préside l'Association professionnelle des magistrats (APM) de 1996 à 1998 et dirige la Miviludes de 2008 à 2012. Il est député de la 11e circonscription du Rhône de 2002 à 2008 sous les couleurs de l'UMP et est réélu en 2012. Depuis 2017, il est consultant pour la chaîne télévisée CNews.\n\n"
+    },
+    "descriptions": {
+      "en": "homme politique et magistrat français"
+    },
+    "domain": "general",
+    "id": "Q12937",
+    "labels": {
+      "en": "Georges Fenech",
+      "fr": "Georges Fenech"
+    },
+    "properties": {
+      "birth_date": "1954-10-26T00:00:00Z",
+      "occupation": "parlementaire",
+      "summary": "Georges Fenech, né le 26 octobre 1954 à Sousse (Tunisie), est un magistrat et homme politique français, membre du RPR, de l'UMP puis des Républicains.\nMagistrat en Rhône-Alpes puis à Bobigny, il préside l'Association professionnelle des magistrats (APM) de 1996 à 1998 et dirige la Miviludes de 2008 à 2012. Il est député de la 11e circonscription du Rhône de 2002 à 2008 sous les couleurs de l'UMP et est réélu en 2012. Depuis 2017, il est consultant pour la chaîne télévisée CNews.\n\n"
+    },
+    "type": "person"
+  }
+}

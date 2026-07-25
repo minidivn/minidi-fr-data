@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q122730699",
+      "title": "WikiData Q-item: Q122730699",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q122730699"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "site du patrimoine mondial en Italie"
+    },
+    "descriptions": {
+      "en": "site du patrimoine mondial en Italie"
+    },
+    "domain": "general",
+    "id": "Q122730699",
+    "labels": {
+      "en": "Karst et grottes évaporitiques de l'Apennin du Nord"
+    },
+    "properties": {
+      "coordinates": "Point(10.388916666 44.379944444)"
+    },
+    "type": "place"
+  }
+}

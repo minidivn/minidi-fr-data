@@ -1,10 +1,5 @@
 {
-  "word:fr:personnes": "29f445ba-c8aa-5035-913b-ee11b50298fd.json",
-  "word:fr:par": "2936322d-8e69-59f4-9830-8d74ab900387.json",
-  "word:fr:abriter": "29dd331b-83cb-54bf-805e-2f8065d21538.json",
-  "word:fr:acceptes-tu": "29174c2c-e2bb-5607-bb34-3b6601771faa.json",
-  "word:vi:a-míp": "29ddfa18-3f7d-5bf9-8f1c-9f67f0592de3.json",
   "word:fr:4h00": "29717ba1-98bc-555e-84be-2806a52ef146.json",
-  "word:fr:toi": "2962f43c-c191-5bea-9711-78b15835107b.json",
-  "word:vi:amip": "293b91ed-7b68-5887-b26b-baebc04932d6.json"
+  "word:fr:acceptes-tu": "29174c2c-e2bb-5607-bb34-3b6601771faa.json",
+  "word:fr:abriter": "29dd331b-83cb-54bf-805e-2f8065d21538.json"
 }

@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-fr-data",
     "trust_tier": 5,
-    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "homme politique français"
+      "markdown": "Jean-Louis Touraine, né le 8 octobre 1945 dans le 3e arrondissement de Lyon (France), est un professeur de médecine et homme politique français."
     },
     "descriptions": {
       "en": "homme politique français"
@@ -33,11 +33,13 @@
     "domain": "general",
     "id": "Q12923",
     "labels": {
-      "en": "Jean-Louis Touraine"
+      "en": "Jean-Louis Touraine",
+      "fr": "Jean-Louis Touraine"
     },
     "properties": {
       "birth_date": "1945-10-08T00:00:00Z",
-      "occupation": "immunologiste"
+      "occupation": "immunologiste",
+      "summary": "Jean-Louis Touraine, né le 8 octobre 1945 dans le 3e arrondissement de Lyon (France), est un professeur de médecine et homme politique français."
     },
     "type": "person"
   }

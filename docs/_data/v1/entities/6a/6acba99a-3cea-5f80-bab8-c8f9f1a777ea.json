@@ -5,12 +5,12 @@
     "nodes": {}
   },
   "meta": {
-    "created_at": "2026-07-24T17:48:43.271855200+00:00",
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
     "format": "Minidi-HGJ",
     "license": "CC-BY-SA-4.0",
     "source_repo": "https://github.com/minidivn/minidi-fr-data",
     "trust_tier": 5,
-    "updated_at": "2026-07-24T17:48:43.271855200+00:00",
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
     "version": "1.0.0"
   },
   "sources": [
@@ -25,7 +25,7 @@
     "content": {
       "code_blocks": [],
       "latex": [],
-      "markdown": "Le Westphalien est une subdivision de l'échelle des temps géologiques, équivalent au sous-étage du Pennsylvanien moyen. Son stratotype est caractérisé par la houille de Westphalie.\nLe westphalien est précédé par le Namurien et suivi par le Stéphanien. Dans l'échelle de temps géologique, le Westphalien se situe à l'époque du Pennsylvanien (de -323 Ma à -299 Ma)."
+      "markdown": "deuxième étage du Silésien"
     },
     "descriptions": {
       "en": "deuxième étage du Silésien"
@@ -33,13 +33,11 @@
     "domain": "general",
     "id": "Q1568709",
     "labels": {
-      "en": "Westphalien",
-      "fr": "Westphalien"
+      "en": "Westphalien"
     },
     "properties": {
       "end_time": "-299000000-01-01T00:00:00Z",
-      "start_time": "-323000000-01-01T00:00:00Z",
-      "summary": "Le Westphalien est une subdivision de l'échelle des temps géologiques, équivalent au sous-étage du Pennsylvanien moyen. Son stratotype est caractérisé par la houille de Westphalie.\nLe westphalien est précédé par le Namurien et suivi par le Stéphanien. Dans l'échelle de temps géologique, le Westphalien se situe à l'époque du Pennsylvanien (de -323 Ma à -299 Ma)."
+      "start_time": "-323000000-01-01T00:00:00Z"
     },
     "type": "event"
   }

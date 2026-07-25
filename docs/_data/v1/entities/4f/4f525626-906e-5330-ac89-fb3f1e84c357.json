@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q338932",
+      "title": "WikiData Q-item: Q338932",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q338932"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "montagne française"
+    },
+    "descriptions": {
+      "en": "montagne française"
+    },
+    "domain": "general",
+    "id": "Q338932",
+    "labels": {
+      "en": "mont Revard"
+    },
+    "properties": {
+      "coordinates": "Point(5.974444444 45.681944444)"
+    },
+    "type": "place"
+  }
+}

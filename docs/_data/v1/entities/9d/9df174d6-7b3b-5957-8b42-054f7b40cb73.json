@@ -1,0 +1,45 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q31200",
+      "title": "WikiData Q-item: Q31200",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q31200"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "journaliste et dramaturge français"
+    },
+    "descriptions": {
+      "en": "journaliste et dramaturge français"
+    },
+    "domain": "general",
+    "id": "Q31200",
+    "labels": {
+      "en": "Maurice Alhoy"
+    },
+    "properties": {
+      "birth_date": "1802-01-01T00:00:00Z",
+      "death_date": "1856-04-27T00:00:00Z",
+      "occupation": "écrivain ou écrivaine"
+    },
+    "type": "person"
+  }
+}

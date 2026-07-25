@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q123248",
+      "title": "WikiData Q-item: Q123248",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q123248"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "rivière de France"
+    },
+    "descriptions": {
+      "en": "rivière de France"
+    },
+    "domain": "general",
+    "id": "Q123248",
+    "labels": {
+      "en": "Suran"
+    },
+    "properties": {
+      "coordinates": "Point(5.31879 46.04309)"
+    },
+    "type": "place"
+  }
+}

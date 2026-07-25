@@ -1,0 +1,43 @@
+{
+  "attachments": [],
+  "graph": {
+    "hyperedges": [],
+    "nodes": {}
+  },
+  "meta": {
+    "created_at": "2026-07-25T03:36:01.460080200+00:00",
+    "format": "Minidi-HGJ",
+    "license": "CC-BY-SA-4.0",
+    "source_repo": "https://github.com/minidivn/minidi-fr-data",
+    "trust_tier": 5,
+    "updated_at": "2026-07-25T03:36:01.460080200+00:00",
+    "version": "1.0.0"
+  },
+  "sources": [
+    {
+      "id": "src:wikidata:Q606890",
+      "title": "WikiData Q-item: Q606890",
+      "type": "wikidata",
+      "url": "https://www.wikidata.org/wiki/Q606890"
+    }
+  ],
+  "topic": {
+    "content": {
+      "code_blocks": [],
+      "latex": [],
+      "markdown": "lac français dans les Pyrénées"
+    },
+    "descriptions": {
+      "en": "lac français dans les Pyrénées"
+    },
+    "domain": "general",
+    "id": "Q606890",
+    "labels": {
+      "en": "lac de Barroude"
+    },
+    "properties": {
+      "coordinates": "Point(0.145277777 42.731111111)"
+    },
+    "type": "place"
+  }
+}
